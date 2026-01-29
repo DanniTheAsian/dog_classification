@@ -91,7 +91,6 @@ if img:
 
     top3_idx = np.argsort(probs)[::-1][:3]
     st.subheader("🔍 Model gæt")
-    st.
 
     for i in top3_idx:
         breed = class_names[int(i)].replace("_", " ").title()
