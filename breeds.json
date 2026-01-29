@@ -1,1777 +1,1422 @@
-{
-  "affenpinscher dog": {
-    "description": "En lille hund med stort temperament og cheeky personlighed. Affenpinschers er åbne og selvsikre, perfekte for dem der elsker små hunde med stor attitude.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "afghan hound dog": {
-    "description": "En elegant og graciøs hund kendt for deres lange, silkeglatte pels. De er uafhængige tænkere med blid karakter og kræver betydeligt commitment til grooming.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "airedale terrier dog": {
-    "description": "Terriernes konge! De er intelligente, energiske og loyale ledsagere med behov for masser af motion og mental stimulation.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "akita dog": {
-    "description": "En stor og kraftig hund med rolig, værdefuld optræden. De er dybt loyale over for deres familier og behøver erfarne ejere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "alaskan malamute dog": {
-    "description": "En gigantisk og venlig arbejdshund. De er utroligt stærke og hengivne, men råkter meget og kræver løbende motion.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "alpine dachsbracke dog": {
-    "description": "En lille men robust bjergejagthund fra Alperne. De er venlige og utrættelige jægere ideelle for aktive familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "american akita dog": {
-    "description": "En mere massiv udgave af Akita-racen. De er stærke og uafhængige, kræver erfarne ejere og fast træning.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "american cocker spaniel dog": {
-    "description": "En elskende og ivrig spaniel med smuk strømende pels. Fantastiske familiehunde der behøver regelmæssig grooming.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "american foxhound dog": {
-    "description": "En robust og atletisk jagthund med stor udholdenhed. Venlige og flok-orienterede hunde med stærk jagttrang.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "american staffordshire terrier dog": {
-    "description": "En stærk og modig hund med muskuløs bygning. Loyale familiemedlemmer der behøver fast træning og positiv socialisering.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "american water spaniel dog": {
-    "description": "Wisconsin's statshund! Intelligente og ivrige jægere der elsker vand. Fantastiske familiehunde for aktive hushold.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "appenzell cattle dog": {
-    "description": "En trifarvet arbejdshund fra de schweiziske Alper. Energiske og årvågne, ideelle for aktive familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "ariege pointing dog": {
-    "description": "En fransk jagthund med blid karakter. Dedikerede over for deres familier og elsker outdoor-aktiviteter.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "ariegeois dog": {
-    "description": "En elegant fransk hund med venlig disposition. Pakjægere af natur men danner elskende familiemedlemmer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "artois hound dog": {
-    "description": "En fransk pakkhund kendt for jagteventyrlyst. Robuste og bestemte, fantastiske for aktive familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "atlas mountain dog (aidi)": {
-    "description": "En kraftig værner fra de marokkanskske Atlas-bjerge. Beskyttende og loyale, behøver erfarne ejere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "australian cattle dog": {
-    "description": "En intelligent og energisk gjedehund fuld af personlighed. Loyale og kræver masser af mental og fysisk aktivitet.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "australian kelpie dog": {
-    "description": "En utrættelig arbejdshund avlet til gjedning. Utroligt agile og responsive, trives i aktive miljøer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "australian shepherd dog": {
-    "description": "En intelligent og atletisk arbejdshund. Fantastiske familiehunde for aktive hushold.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "australian silky terrier dog": {
-    "description": "En lille men spiriteret terrier med smuk silkeglat pels. Venlige og responsive, fantastiske schoßhunde.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "australian stumpy tail cattle dog": {
-    "description": "Svarende til Australske Kvægdyr men naturligt stubehalet. Energiske og arbejdsomme kammerater.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "australian terrier dog": {
-    "description": "En lille men frimodig hund med stort terrier-temperament. Venlige og hengivne, fantastiske lejlighedshunde.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "austrian pinscher dog": {
-    "description": "En medium størrelse arbejdshund fra Østrig. Energiske og beskyttende over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "austrian black and tan hound dog": {
-    "description": "En dedikeret jagthund med glimrende sporingsevner. Utrættelige og bestemte jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "auvergne pointer dog": {
-    "description": "En fransk pointerhund med blid disposition. Dedikerede over for deres familier og elsker at arbejde.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "azawakh dog": {
-    "description": "En elegant afrikansk sighthund. Uafhængige men dybt loyale over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "basenji dog": {
-    "description": "Den 'stille hund' kendt for deres yodel-lignende vokaliseringer. Intelligente og katteagtige i deres renlighed.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "basset fauve de bretagne dog": {
-    "description": "En bestemt fransk jagthund med charmerende personlighed. Energiske og passioneret om sporing.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "basset hound dog": {
-    "description": "En kortbenet hund med lange ører og sørgmodige øjne. Afslappede og elskende, selvom stivsindet.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bavarian mountain scent hound dog": {
-    "description": "En dedikeret arbejdshund fra Bayern. Utrættelige sporere dybt hengivne over for deres arbejde.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "beagle dog": {
-    "description": "En glad og nysgerrig pakkhund berømt for deres næse. Venlige med alle og elsker eventyr.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "beagle harrier dog": {
-    "description": "En medium størrelse fransk jagthund. Energiske og venlige, glimrer i pakjagt.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bearded collie dog": {
-    "description": "En glad og storslagen gjedehund med charmerende personlighed. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bedlington terrier dog": {
-    "description": "En unik-udseende terrier der ligner et lam. Blide og hengivne, men bevarer terrier-spirit.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "belgian shepherd dog": {
-    "description": "En intelligent og alsidig arbejdshund. Loyale og meget trænebare, behøver erfarne ejere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bergamasco shepherd dog": {
-    "description": "En italiensk gjedehund med karakteristisk filtet pels. Intelligente og rolige familiemedlemmer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "berger de beauce dog": {
-    "description": "En kraftig fransk gjedehund. Intelligente og loyale, udmærkede i hundesport.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bernese mountain dog": {
-    "description": "En stor og hengivet hund med slående tri-farvet pels. Bløde giganter der elsker deres familier dybt.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bichon frise dog": {
-    "description": "En lille glad hund med fluffet hvid pels. Lystelige, hengivne og sociable med stor personlighed.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "billy dog": {
-    "description": "En fransk jagthund kendt for hastighed og bestemthed. Sjælden men hengivet ledsager for erfarne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "black and tan coonhound dog": {
-    "description": "En amerikansk jagthund avlet til sporing. Bestemte og utrættelige med glimrende lugtesans.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bloodhound dog": {
-    "description": "Den ultimative sporings-hund med usammenligneligt næse. Bløde og tålmodige kammerater.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "blue gascony basset dog": {
-    "description": "En fransk basset med jagterv. Robuste og bestemte jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "blue gascony griffon dog": {
-    "description": "En fransk jagthund med tråd pels. Energiske og passioneret om jagt.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "blue picardy spaniel dog": {
-    "description": "En fransk pointerhund kendt for jagteventyrlyst. Intelligente og entusiastiske jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bohemian shepherd dog": {
-    "description": "En tjekkisk gjedehund kendt for loyalitet. Energiske og dedikerede over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bohemian wire-haired pointing griffon dog": {
-    "description": "En tjekkisk jagthund med ru pels. Intelligente og bestemte jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bolognese dog": {
-    "description": "En italiensk legetøjshund kendt for hengivnhed. Bløde og elsker at være tæt på deres mennesker.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "border collie dog": {
-    "description": "Bredt anset som den mest intelligente hunderace. Utroligt responsive og utrættelige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "border terrier dog": {
-    "description": "En lille men robust terrier. Hengivne og legende, fantastiske for aktive familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "borzoi - russian hunting sighthound dog": {
-    "description": "En elegant russisk sighthund. Bløde og stille med stærk jagttrang.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bosnian and herzegovinian - croatian shepherd dog": {
-    "description": "En balkan-gjedehund med loyalitet. Intelligente og hengivne over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bosnian broken-haired hound - called barak dog": {
-    "description": "En balkan-jagthund med ru pels. Bestemte jægere med venlige dispositioner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "boston terrier dog": {
-    "description": "En charmerende hund kendt som 'den amerikanske gentleman.' Hengivne og legende familiehunde.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bourbonnais pointing dog": {
-    "description": "En fransk pointingrace med blid karakter. Intelligente og dedikerede jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bouvier des ardennes dog": {
-    "description": "En belgisk gjedehund kendt for hårdhed. Energiske og hengivne over for deres arbejde.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bouvier des flandres dog": {
-    "description": "En stor belgisk gjedehund med skæg. Intelligente og loyale familieværnere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "boxer dog": {
-    "description": "En medium størrelse tysk hund. Hengivne clowns der elsker deres familier dybt.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "brazilian terrier dog": {
-    "description": "En lille brasiliansk hund med spiriteret personlighed. Årvågne og hengivne familiemedlemmer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "brazilian tracker dog": {
-    "description": "En jagthund avlet til sporing. Utrættelige og bestemte med glimrende lugtesans.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "briard dog": {
-    "description": "En stor fransk gjedehund med lang strømende pels. Intelligente og loyale familieværnere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "briquet griffon vendeen dog": {
-    "description": "En fransk jagthund med ru pels. Energiske og bestemte jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "brittany spaniel dog": {
-    "description": "En spiriteret og atletisk jagthund. Følsomme og responsive, glimrende træningspartnere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "broholmer dog": {
-    "description": "En dansk mastiff-race med blid temperament. Loyale og rolige familieværnere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bull terrier dog": {
-    "description": "En kraftig terrier med karakteristisk hoved. Hengivne over for deres mennesker.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bulldog": {
-    "description": "En ikonisk britisk hund. Bløde, hengivne og fantastiske med familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "bullmastiff dog": {
-    "description": "En stor hund der kombinerer karaktertræk. Loyale værner der er bløde med familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "burgos pointing dog": {
-    "description": "En spansk pointingrace. Dedikerede jægere med glimrende næser.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "cairn terrier dog": {
-    "description": "En lille skotsk terrier med stort temperament. Selvbevodte og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "canaan dog": {
-    "description": "En gammel israelisk race. Årvågne og beskyttende familieværnere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "canadian eskimo dog": {
-    "description": "En kraftig arktisk slæde-hund. Loyale og hengivne familiemedlemmer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "canarian warren hound dog": {
-    "description": "En lille spansk jagthund. Energiske og bestemte jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "castro laboreiro dog": {
-    "description": "En portugisisk kvægvogter. Loyale og hengivne over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "catalan sheepdog": {
-    "description": "En spansk gjedehund. Energiske og responsive kammerater.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "caucasian shepherd dog": {
-    "description": "En massiv kvægvogter. Loyale men kan være uafhængige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "cavalier king charles spaniel dog": {
-    "description": "En blid og hengivet legetøjshund. Fantastiske med familier og andre kæledyr.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "central asia shepherd dog": {
-    "description": "En stor centralasiatisk kvægvogter. Loyale og uafhængige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "cesky terrier dog": {
-    "description": "En tjekkisk terrier-race. Hengivne og loyale familiemedlemmer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "chesapeake bay retriever dog": {
-    "description": "En amerikansk retriever avlet til vandfugle-jagt. Tæt, loyale og devoted.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "chihuahua dog": {
-    "description": "Den mindste hunderace med stort temperament. Loyale og spiriterede.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "chinese crested dog": {
-    "description": "En usædvanlig race i hårloses og powderpuff-varianter. Hengivne og elsker at være schoßhunde.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "chow chow dog": {
-    "description": "En kinesisk race med blå-sort tunge. Loyale og uafhængige kammerater.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "cimarron uruguayo dog": {
-    "description": "En uruguayansk hund med styrke. Loyale og beskyttende.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "cirneco dell'etna dog": {
-    "description": "En gammel siciliansk sighthund. Uafhængige men dybt loyale.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "clumber spaniel dog": {
-    "description": "En stor engelsk spaniel-race. Glimrende jægere og hengivne familiemedlemmer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "coarse-haired styrian hound dog": {
-    "description": "En østrigsk jagthund med ru pels. Bestemte og utrættelige sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "collie rough dog": {
-    "description": "En skotsk gjedehund med lang strømende pels. Intelligente og hengivne familiemedlemmer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "collie smooth dog": {
-    "description": "Den glat-pelsede version af Collie-racen. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "continental bulldog": {
-    "description": "En moderne race med bedre helbred. Venlige og aktive kammerater.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "continental toy spaniel dog": {
-    "description": "En lille legetøjsrace med store ører. Intelligente og responsive.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "coton de tulear dog": {
-    "description": "En madagaskisk legetøjsrace. Hengivne og lystelige kammerater.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "croatian shepherd dog": {
-    "description": "En balkan-gjedehund. Intelligente og dedikerede over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "curly coated retriever dog": {
-    "description": "En retriever med krusende pels. Intelligente og glimrende jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "czechoslovakian wolfdog": {
-    "description": "En hund-ulv hybrid med udfordrende temperament. Behøver erfarne ejere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "dachshund dog": {
-    "description": "En tysk hund med langt legeme og korte ben. Modig og nysgerrig.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "dalmatian dog": {
-    "description": "En plettet hund kendt for energi. Lystelig og loyal.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "dandie dinmont terrier dog": {
-    "description": "En lille skotsk terrier. Uafhængig og spiriteret.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "danish-swedish farmdog": {
-    "description": "En skandinavisk race med gård-arv. Intelligente og energiske.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "deerhound dog": {
-    "description": "En skotsk sighthund. Bløde og hengivne jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "deutsch langhaar dog": {
-    "description": "En tysk pointingrace med lang pels. Glimrende jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "deutsch stichelhaar dog": {
-    "description": "En tysk jagthund med tråd pels. Bestemte jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "dobermann dog": {
-    "description": "En tysk arbejdshund. Glimrende værner og hengivne familiemedlemmer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "dogo argentino": {
-    "description": "En argentinsk jagthund. Loyale og beskyttende kammerater.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "dogue de bordeaux": {
-    "description": "En fransk mastiff af massiv størrelse. Loyale familieværnere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "drentsche partridge dog": {
-    "description": "En hollandsk jagthund. Intelligente og responsive jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "drever dog": {
-    "description": "En svensk jagthund med korte ben. Utrættelige og venlige sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "dutch schapendoes dog": {
-    "description": "En hollandsk gjedehund med fjaggel pels. Intelligente og lystelige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "dutch shepherd dog": {
-    "description": "En alsidig hollandsk arbejdshund. Glimrende til mange opgaver.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "dutch smoushond dog": {
-    "description": "En lille hollandsk hund med overskæg. Venlige og årvågne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "east siberian laika dog": {
-    "description": "En russisk jagthund. Loyale og uafhængige kammerater.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "english cocker spaniel dog": {
-    "description": "En talentfuld jagts-spaniel. Hengivne og ivrige familiemedlemmer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "english foxhound dog": {
-    "description": "En engelsk jagthund avlet til pakjagt. Venlige og flok-orienterede.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "english pointer dog": {
-    "description": "En engelsk pointingrace. Atletiske og responsivejægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "english setter dog": {
-    "description": "En elegant engelsk jagthund. Hengivne ledsagere der elsker motion.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "english springer spaniel dog": {
-    "description": "En alsidig engelsk spaniel. Hengivne og glimrende jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "english toy terrier (black & tan) dog": {
-    "description": "En lille legetøjsrace. Årvågne og hengivne kammerater.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "entlebuch cattle dog": {
-    "description": "En schweizisk gjedehund. Energiske og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "estonian hound dog": {
-    "description": "En estisk jagthund med glimrende lugtesans. Venlige sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "estrela mountain dog": {
-    "description": "En portugisisk kvægvogter. Beskyttende over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "eurasian dog": {
-    "description": "En russisk/tysk spitz-type race. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "fawn brittany griffon dog": {
-    "description": "En fransk jagthund. Bestemte jægere med venlige dispositioner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "field spaniel dog": {
-    "description": "En længere spaniel-race. Intelligente og responsive.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "fila brasileiro dog": {
-    "description": "En brasiliansk hund. Loyale værner med beskyttende instinkter.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "finnish hound dog": {
-    "description": "En finsk jagthund. Glimrende sporere og venlige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "finnish lapponian dog": {
-    "description": "En lapsk gjedehund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "finnish spitz dog": {
-    "description": "En finsk jagthund kendt for gøende evne. Uafhængige men hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "flat coated retriever dog": {
-    "description": "En britisk retriever med strømende pels. Muntre og intelligente.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "fox terrier (smooth) dog": {
-    "description": "En kort-pelset terrier-race. Årvågne og atletiske.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "fox terrier (wire) dog": {
-    "description": "En tråd-pelset terrier-version. Spiriterede og bestemte.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "french bulldog": {
-    "description": "En lille fransk hund med charme. Hengivne og lystelige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "french pointing dog - pyrenean type": {
-    "description": "En fransk pointingrace fra Pyrenæerne. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "french spaniel dog": {
-    "description": "En fransk pointerhund. Intelligente og responsive jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "french tricolour hound dog": {
-    "description": "En fransk pakkhund. Bestemte og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "french water dog": {
-    "description": "En fransk vandhund. Intelligente og alsidigt begavede.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "french white & black hound dog": {
-    "description": "En fransk pakkhund. Bestemte jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "french white and orange hound dog": {
-    "description": "En fransk pakkhund. Dedikerede jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "frisian water dog": {
-    "description": "En hollandsk vandhund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "gascon saintongeois dog": {
-    "description": "En fransk jagthund med glimrende lugtesans. Venlige sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "german hound dog": {
-    "description": "En tysk jagthund. Bestemte sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "german hunting terrier dog": {
-    "description": "En tysk terrier-race. Modig og bestemte.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "german pinscher dog": {
-    "description": "En tysk hund med spiriteret personlighed. Årvågne værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "german shepherd dog": {
-    "description": "En af de mest alsidighed raceerner. Glimrer som arbejds-og familiehunde.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "german short-haired pointing dog": {
-    "description": "En alsidig tysk jagthund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "german spaniel dog": {
-    "description": "En tysk jagthund. Intelligente og responsive.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "german spitz dog": {
-    "description": "En tysk spitz-type race. Loyale og årvågne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "german wire-haired pointing dog": {
-    "description": "En tysk jagthund med tråd pels. Intelligente og alsidig.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "giant schnauzer dog": {
-    "description": "En stor tysk hund med skæg. Intelligente og loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "golden retriever dog": {
-    "description": "En af de mest populære raceerner. Hengivne og glimrende servicehunde.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "gordon setter dog": {
-    "description": "En skotsk jagthund. Hengivne og intelligente jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "grand basset griffon vendeen dog": {
-    "description": "En fransk jagthund. Bestemte og venlige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "grand griffon vendeen dog": {
-    "description": "En større fransk griffon-race. Bestemte og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "great anglo-french tricolour hound dog": {
-    "description": "En fransk pakkhund. Bestemte og venlige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "great anglo-french white & orange hound dog": {
-    "description": "En fransk pakkhund. Dedikerede jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "great anglo-french white and black hound dog": {
-    "description": "En fransk pakkhund. Bestemte og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "great dane dog": {
-    "description": "En tysk kæmpehund. Ofte kaldt bløde giganter.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "great gascony blue dog": {
-    "description": "En fransk pakkhund. Dedikerede jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "great swiss mountain dog": {
-    "description": "En stor schweizisk hund. Hengivne familieværnere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "greenland dog": {
-    "description": "En arktisk slæde-hund. Loyale og hårdtarbejdende.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "greyhound dog": {
-    "description": "En gammel sighthund. Bløde og elskende.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "griffon belge dog": {
-    "description": "En lille belgisk legetøjshund. Hengivne og underholdende.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "griffon bruxellois dog": {
-    "description": "En lille belgisk legetøjshund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "griffon nivernais dog": {
-    "description": "En fransk jagthund. Bestemte jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "halden hound dog": {
-    "description": "En norsk jagthund. Venlige og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "hamiltonstövare dog": {
-    "description": "En svensk jagthund. Venlige og bestemte jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "hanoverian scent hound dog": {
-    "description": "En tysk sporings-hund. Bestemte og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "harrier dog": {
-    "description": "En medium størrelse engelsk jagthund. Bestemte og venlige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "havanese dog": {
-    "description": "En lille kubansk hund. Hengivne og lystelige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "hellenic hound dog": {
-    "description": "En græsk jagthund. Venlige og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "hokkaido dog": {
-    "description": "En japansk hund. Hengivne over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "hovawart dog": {
-    "description": "En tysk arbejdshund. Hengivne familieværnere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "hungarian greyhound dog": {
-    "description": "En ungarsk sighthund. Bløde og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "hungarian hound - transylvanian scent hound dog": {
-    "description": "En ungarsk jagthund. Venlige jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "hungarian short-haired pointer (vizsla) dog": {
-    "description": "En ungarsk pointerhund. Atletiske og responsive.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "hungarian wire-haired pointer dog": {
-    "description": "En ungarsk jagthund. Bestemte og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "hygen hound dog": {
-    "description": "En norsk jagthund. Glimrende sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "ibizan podenco dog": {
-    "description": "En spansk sighthund. Uafhængige men hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "icelandic sheepdog": {
-    "description": "En islandsk gjedehund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "irish glen of imaal terrier dog": {
-    "description": "En irlandsk terrier-race. Spiriterede og loyale.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "irish red and white setter dog": {
-    "description": "En irlandsk jagthund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "irish red setter dog": {
-    "description": "En irlandsk jagthund. Hengivne og lystelige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "irish soft coated wheaten terrier dog": {
-    "description": "En irlandsk terrier. Hengivne og spiriterede.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "irish terrier dog": {
-    "description": "En irlandsk terrier. Spiriterede og loyale.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "irish water spaniel dog": {
-    "description": "En irlandsk spaniel. Intelligente og hengivne jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "irish wolfhound dog": {
-    "description": "En irlandsk sighthund af massiv størrelse. Bløde giganter.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "istrian short-haired hound dog": {
-    "description": "En kroatisk/slovenisk jagthund. Bestemte og venlige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "istrian wire-haired hound dog": {
-    "description": "En kroatisk/slovenisk jagthund. Dedikerede jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "italian cane corso dog": {
-    "description": "En italiensk mastiff. Hengivne familieværnere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "italian pointing dog": {
-    "description": "En italiensk jagthund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "italian rough-haired segugio dog": {
-    "description": "En italiensk jagthund. Bestemte jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "italian short-haired segugio dog": {
-    "description": "En italiensk jagthund. Venlige og bestemte.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "italian sighthound dog": {
-    "description": "En italiensk sighthund. Bløde og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "italian spinone dog": {
-    "description": "En italiensk jagthund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "italian volpino dog": {
-    "description": "En lille italiensk spitz-race. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "jack russell terrier dog": {
-    "description": "En lille engelsk terrier. Intelligente og spiriterede.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "japanese chin dog": {
-    "description": "En japansk legetøjshund. Hengivne og graceful.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "japanese spitz dog": {
-    "description": "En japansk spitz-race. Venlige og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "japanese terrier dog": {
-    "description": "En lille japansk terrier. Årvågne og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "jämthund dog": {
-    "description": "En svensk jagthund. Loyale over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "kai dog": {
-    "description": "En japansk jagthund. Hengivne over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "kangal shepherd dog": {
-    "description": "En tyrkisk kvægvogter. Loyale og beskyttende.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "karelian bear dog": {
-    "description": "En finsk jagthund. Bestemte og uafhængige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "karst shepherd dog": {
-    "description": "En slovenisk kvægvogter. Loyale og beskyttende.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "kerry blue terrier dog": {
-    "description": "En irlandsk terrier. Spiriterede og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "king charles spaniel dog": {
-    "description": "En lille legetøjs-spaniel. Hengivne og bløde.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "kintamani-bali dog": {
-    "description": "En indonesisk hund. Hengivne over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "kishu dog": {
-    "description": "En japansk jagthund. Hengivne over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "kleiner münsterlänger dog": {
-    "description": "En tysk pointerhund. Intelligente og hengivne jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "komondor dog": {
-    "description": "En ungarsk kvægvogter med flettede pels. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "korea jindo dog": {
-    "description": "En koreansk hund. Hengivne over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "kromfohrländer dog": {
-    "description": "En tysk jagthund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "kuvasz dog": {
-    "description": "En ungarsk kvægvogter. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "labrador retriever dog": {
-    "description": "En af de mest populære raceerner. Hengivne familiehunde.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "lakeland terrier dog": {
-    "description": "En lille engelsk terrier. Uafhængige og selvbevodte.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "lancashire heeler dog": {
-    "description": "En lille engelsk gjedehund. Intelligente og energiske.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "landseer (european continental type) dog": {
-    "description": "En europæisk Newfoundland-variation. Loyale og bløde.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "lapponian herder dog": {
-    "description": "En skandinavisk gjedehund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "large munsterlander dog": {
-    "description": "En tysk jagt-hund. Intelligente og hengivne jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "leonberger dog": {
-    "description": "En stor tysk hund. Bløde giganter og hengivne familiemedlemmer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "lhasa apso dog": {
-    "description": "En lille tibetansk hund. Uafhængige og loyale.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "little lion dog": {
-    "description": "En lille europæisk legetøjshund. Hengivne og bløde.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "long-haired pyrenean sheepdog": {
-    "description": "En fransk gjedehund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "majorca mastiff dog": {
-    "description": "En spansk mastiff. Hengivne familieværnere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "majorca shepherd dog": {
-    "description": "En spansk gjedehund. Hengivne og energiske.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "maltese dog": {
-    "description": "En lille legetøjshund med hvid pels. Hengivne og lystelige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "manchester terrier dog": {
-    "description": "En slankt engelsk terrier. Årvågne og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "maremma and the abruzzes sheepdog": {
-    "description": "En italiensk kvægvogter. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "mastiff dog": {
-    "description": "En engelsk kæmpehund. Hengivne familieværnere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "medium-sized anglo-french hound dog": {
-    "description": "En fransk pakkhund. Dedikerede jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "miniature american shepherd dog": {
-    "description": "En lille australsk shepherd-version. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "miniature bull terrier dog": {
-    "description": "En lille bull terrier. Hengivne og spiriterede.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "miniature pinscher dog": {
-    "description": "En lille tysk hund. Årvågne og selv sikre.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "miniature schnauzer dog": {
-    "description": "En lille tysk hund. Intelligente og loyale.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "montenegrin mountain hound dog": {
-    "description": "En montenegrinsk jagthund. Dedikerede sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "mudi dog": {
-    "description": "En ungarsk gjedehund. Intelligente og agile.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "neapolitan mastiff dog": {
-    "description": "En italiensk mastiff. Hengivne familieværnere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "nederlandse kooikerhondje dog": {
-    "description": "En lille hollandsk jagthund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "newfoundland dog": {
-    "description": "En canadisk kæmpehund. Hengivne og glimrende svømmere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "norfolk terrier dog": {
-    "description": "En lille engelsk terrier. Spiriterede og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "norman artesien basset dog": {
-    "description": "En fransk basset. Venlige og bestemte.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "norrbottenspitz dog": {
-    "description": "En svensk spitz-race. Hengivne over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "norwegian buhund dog": {
-    "description": "En norsk gjedehund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "norwegian elkhound black dog": {
-    "description": "En norsk jagthund. Loyale og bestemte jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "norwegian elkhound grey dog": {
-    "description": "En norsk jagthund-variant. Loyale jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "norwegian hound dog": {
-    "description": "En norsk jagthund. Dedikerede sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "norwegian lundehund dog": {
-    "description": "En unik norsk hund. Hengivne og uafhængige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "norwich terrier dog": {
-    "description": "En lille engelsk terrier. Spiriterede og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "nova scotia duck tolling retriever dog": {
-    "description": "En canadisk retriever. Hengivne og lystelige jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "old danish pointing dog": {
-    "description": "En dansk pointingrace. Intelligente og venlige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "old english sheepdog": {
-    "description": "En britisk gjedehund. Lystelige og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "otterhound dog": {
-    "description": "En stor engelsk jagthund. Hengivne og intelligente.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "parson russell terrier dog": {
-    "description": "En lille engelsk terrier. Intelligente og spiriterede.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "pekingese dog": {
-    "description": "En lille kinesisk legetøjshund. Hengivne og uafhængige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "peruvian hairless dog": {
-    "description": "En sydamerikansk hund. Loyale og årvågne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "petit basset griffon vendeen dog": {
-    "description": "En lille fransk jagthund. Venlige og bestemte.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "petit brabançon dog": {
-    "description": "En lille belgisk legetøjshund. Hengivne og lystelige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "pharaoh hound dog": {
-    "description": "En maltesisk sighthund. Elegante og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "picardy sheepdog": {
-    "description": "En fransk gjedehund. Hengivne og energiske.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "picardy spaniel dog": {
-    "description": "En fransk jagthund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "poitevin dog": {
-    "description": "En fransk pakkhund. Dedikerede jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "polish greyhound dog": {
-    "description": "En polsk sighthund. Bløde og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "polish hound dog": {
-    "description": "En polsk jagthund. Glimrende sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "polish hunting dog": {
-    "description": "En polsk jagthund. Hengivne og energiske.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "polish lowland sheepdog": {
-    "description": "En polsk gjedehund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "pont-audemer spaniel dog": {
-    "description": "En fransk spaniel med krusende pels. Intelligente jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "poodle dog": {
-    "description": "En meget intelligent hunderace. Responsive og begavede.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "porcelaine dog": {
-    "description": "En fransk jagthund. Dedikerede jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "portuguese pointing dog": {
-    "description": "En portugisisk jagthund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "portuguese sheepdog": {
-    "description": "En portugisisk gjedehund. Hengivne og energiske.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "portuguese warren hound-portuguese podengo dog": {
-    "description": "En portugisisk jagthund. Uafhængige og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "portuguese water dog": {
-    "description": "En portugisisk vandhund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "posavatz hound dog": {
-    "description": "En balkan-jagthund. Dedikerede sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "prague ratter dog": {
-    "description": "En lille tjekkisk hund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "presa canario dog": {
-    "description": "En canarierhund. Loyale og beskyttende.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "pudelpointer dog": {
-    "description": "En tysk jagthund. Intelligente jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "pug dog": {
-    "description": "En lille kinesisk hund. Hengivne og lystelige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "puli dog": {
-    "description": "En ungarsk gjedehund. Intelligente og loyale.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "pumi dog": {
-    "description": "En ungarsk gjedehund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "pyrenean mastiff dog": {
-    "description": "En spansk mastiff. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "pyrenean mountain dog": {
-    "description": "En fransk kvægvogter. Beskyttende og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "pyrenean sheepdog - smooth faced": {
-    "description": "En fransk gjedehund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "rafeiro of alentejo dog": {
-    "description": "En portugisisk kvægvogter. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "rhodesian ridgeback dog": {
-    "description": "En sydafrikansk jagthund. Loyale og uafhængige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "romagna water dog": {
-    "description": "En italiensk vandhund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "romanian bucovina shepherd dog": {
-    "description": "En rumænsk kvægvogter. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "romanian carpathian shepherd dog": {
-    "description": "En rumænsk kvægvogter. Loyale og beskyttende.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "romanian mioritic shepherd dog": {
-    "description": "En rumænsk kvægvogter. Loyale og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "rottweiler dog": {
-    "description": "En tysk hund. Hengivne familieværnere når ordentligt trænet.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "russian black terrier dog": {
-    "description": "En russisk hund. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "russian toy dog": {
-    "description": "En lille russisk legetøjshund. Hengivne kammerater.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "russian-european laika dog": {
-    "description": "En russisk jagthund. Hengivne over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "saarloos wolfhond dog": {
-    "description": "En hollandsk hund-ulv hybrid. Behøver erfarne ejere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "saint germain pointer dog": {
-    "description": "En fransk pointingrace. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "saint miguel cattle dog": {
-    "description": "En portugisisk gjedehund. Loyale og energiske.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "saluki dog": {
-    "description": "En gammel middel-østlig sighthund. Bløde og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "samoyed dog": {
-    "description": "En russisk spitz-type hund. Venlige og intelligente.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "schillerstövare dog": {
-    "description": "En svensk jagthund. Glimrende sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "schipperke dog": {
-    "description": "En lille belgisk hund. Intelligente og uafhængige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "schnauzer dog": {
-    "description": "En tysk race i tre størrelser. Intelligente værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "scottish terrier dog": {
-    "description": "En lille skotsk terrier. Uafhængig og spiriteret.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "sealyham terrier dog": {
-    "description": "En walisisk terrier. Hengivne og lystelige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "segugio maremmano dog": {
-    "description": "En italiensk jagthund. Glimrende sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "serbian hound dog": {
-    "description": "En serbisk jagthund. Dedikerede sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "serbian tricolour hound dog": {
-    "description": "En serbisk jagthund. Venlige jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "shar pei dog": {
-    "description": "En kinesisk hund. Uafhængige og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "shetland sheepdog": {
-    "description": "En lille skotsk gjedehund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "shiba dog": {
-    "description": "En japansk hund. Spiriterede og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "shih tzu dog": {
-    "description": "En lille kinesisk legetøjshund. Hengivne kammerater.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "shikoku dog": {
-    "description": "En japansk jagthund. Hengivne over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "siberian husky dog": {
-    "description": "En russisk slæde-hund. Venlige og intelligente.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "skye terrier dog": {
-    "description": "En skotsk terrier. Uafhængig og hengivet.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "sloughi dog": {
-    "description": "En nordafrikansk sighthund. Bløde og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "slovakian chuvach dog": {
-    "description": "En slovakisk kvægvogter. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "slovakian hound dog": {
-    "description": "En slovakisk jagthund. Dedikerede sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "small blue gascony dog": {
-    "description": "En lille fransk jagthund. Venlige jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "small swiss hound dog": {
-    "description": "En lille schweizisk jagthund. Glimrende sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "smålandsstövare dog": {
-    "description": "En svensk jagthund. Dedikerede sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "south russian shepherd dog": {
-    "description": "En russisk kvægvogter. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "spanish greyhound dog": {
-    "description": "En spansk sighthund. Bløde og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "spanish hound dog": {
-    "description": "En spansk jagthund. Dedikerede sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "spanish mastiff dog": {
-    "description": "En spansk mastiff. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "spanish water dog": {
-    "description": "En spansk vandhund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "st. bernard dog": {
-    "description": "En schweizisk bjergekæmpe. Bløde giganter.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "stabijhoun dog": {
-    "description": "En hollandsk pointerhund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "staffordshire bull terrier dog": {
-    "description": "En engelsk hund. Hengivne familiemedlemmer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "sussex spaniel dog": {
-    "description": "En britisk jagts-spaniel. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "swedish lapphund dog": {
-    "description": "En skandinavisk gjedehund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "swedish vallhund dog": {
-    "description": "En lille svensk gjedehund. Intelligente og energiske.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "swiss hound dog": {
-    "description": "En schweizisk jagthund. Dedikerede sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "taiwan dog": {
-    "description": "En taiwanesisk jagthund. Hengivne over for deres familier.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "tatra shepherd dog": {
-    "description": "En polsk kvægvogter. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "thai bangkaew dog": {
-    "description": "En thailandsk hund. Loyale familieværnere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "thai ridgeback dog": {
-    "description": "En thailandsk sighthund. Uafhængige og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "tibetan mastiff dog": {
-    "description": "En tibetansk hund. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "tibetan spaniel dog": {
-    "description": "En lille tibetansk hund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "tibetan terrier dog": {
-    "description": "En tibetansk hund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "tosa dog": {
-    "description": "En japansk hund. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "transmontano mastiff dog": {
-    "description": "En portugisisk mastiff. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "tyrolean hound dog": {
-    "description": "En østrigsk jagthund. Dedikerede sporere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "valencian terrier dog": {
-    "description": "En spansk terrier. Årvågne og loyale.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "weimaraner dog": {
-    "description": "En tysk jagthund. Hengivne og intelligente.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "welsh corgi (cardigan) dog": {
-    "description": "En walisisk gjedehund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "welsh corgi (pembroke) dog": {
-    "description": "En walisisk gjedehund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "welsh springer spaniel dog": {
-    "description": "En walisisk spaniel. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "welsh terrier dog": {
-    "description": "En walisisk terrier. Hengivne og lystelige.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "west highland white terrier dog": {
-    "description": "En skotsk terrier. Spiriterede og loyale.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "west siberian laika dog": {
-    "description": "En russisk jagthund. Hengivne familiemedlemmer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "westphalian dachsbracke dog": {
-    "description": "En tysk jagthund. Dedikerede jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "whippet dog": {
-    "description": "En lille sighthund. Bløde og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "white swiss shepherd dog": {
-    "description": "En schweizisk hund. Intelligente og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "wire-haired pointing griffon korthals dog": {
-    "description": "En hollandsk pointerhund. Intelligente jægere.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "wirehaired slovakian pointer dog": {
-    "description": "En slovakisk jagthund. Bestemte og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "xoloitzcuintle dog": {
-    "description": "En mexicansk hund. Loyale og hengivne kammerater.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "yakutian laika dog": {
-    "description": "En russisk slæde-hund. Loyale familiemedlemmer.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "yorkshire terrier dog": {
-    "description": "En lille engelsk terrier. Spiriterede og hengivne.",
-    "origin": "Unknown",
-    "temperament": "See description"
-  },
-  "yugoslavian shepherd dog - sharplanina": {
-    "description": "En balkan-kvægvogter. Loyale værner.",
-    "origin": "Unknown",
-    "temperament": "See description"
+[
+  {
+    "name": "affenpinscher dog",
+    "description": "En lille hund med stort temperament og cheeky personlighed. Affenpinschers er åbne og selvsikre, perfekte for dem der elsker små hunde med stor attitude. De har brug for regelmæssig grooming og elsker at være i centrum."
+  },
+  {
+    "name": "afghan hound dog",
+    "description": "An elegant and graceful dog known for their long, silky coat. Afghan Hounds are independent thinkers with a gentle nature. They require significant grooming commitment and enjoy being pampered."
+  },
+  {
+    "name": "airedale terrier dog",
+    "description": "The king of terriers! Airedales are intelligent, energetic, and loyal companions. They're great with families and need plenty of exercise and mental stimulation. Their wiry coat requires regular grooming."
+  },
+  {
+    "name": "akita dog",
+    "description": "A large and powerful dog with a calm, dignified demeanor. Akitas are deeply loyal to their families and make excellent guardians. They require experienced owners and proper socialization from an early age."
+  },
+  {
+    "name": "alaskan malamute dog",
+    "description": "A giant, friendly giant bred for hauling heavy loads. Alaskan Malamutes are incredibly strong and affectionate, loving their families deeply. They shed heavily and need consistent exercise and training."
+  },
+  {
+    "name": "alpine dachsbracke dog",
+    "description": "A small but sturdy mountain hunting dog from the Alps. Alpine Dachsbrackes are friendly and tireless, with a keen sense of smell. They're ideal for active families who enjoy outdoor adventures."
+  },
+  {
+    "name": "american akita dog",
+    "description": "A more heavily built version of the Akita breed. American Akitas are strong, independent, and loyal to their families. They need firm, consistent training and aren't suitable for first-time dog owners."
+  },
+  {
+    "name": "american cocker spaniel dog",
+    "description": "A loving and eager-to-please dog with a beautiful flowing coat. American Cocker Spaniels are wonderful family pets and excellent therapy dogs. They need regular grooming and enjoy an active lifestyle."
+  },
+  {
+    "name": "american foxhound dog",
+    "description": "A hardy and athletic hunting dog with great endurance. American Foxhounds are friendly and pack-oriented. They have a strong prey drive and do well with active families or running partners."
+  },
+  {
+    "name": "american staffordshire terrier dog",
+    "description": "A strong and courageous dog with a muscular build. American Staffordshire Terriers are loyal family members who love their people. They need firm training and positive socialization to be wonderful companions."
+  },
+  {
+    "name": "american water spaniel dog",
+    "description": "Wisconsin's state dog! American Water Spaniels are intelligent, eager hunters with a love for water. They're wonderful family dogs and enjoy both work and play. Regular grooming and exercise keep them happy."
+  },
+  {
+    "name": "appenzell cattle dog",
+    "description": "A tricolored working dog from the Swiss Alps. Appenzell Cattle Dogs are energetic, alert, and loyal. They're excellent for active families and require both physical and mental stimulation."
+  },
+  {
+    "name": "ariege pointing dog",
+    "description": "A French hunting dog known for its excellent hunting abilities and calm nature. Ariege Pointers are devoted to their families and make wonderful companions for active households. They thrive on outdoor activities."
+  },
+  {
+    "name": "ariegeois dog",
+    "description": "An elegant French hound with a gentle and friendly disposition. Ariegeois dogs are pack hunters by nature but make loving family members. They enjoy both work and companionship with their loved ones."
+  },
+  {
+    "name": "artois hound dog",
+    "description": "A French pack hound known for its hunting prowess and friendly nature. Artois Hounds are sturdy and determined, making excellent companions for active families who appreciate traditional hunting dog breeds."
+  },
+  {
+    "name": "atlas mountain dog (aidi)",
+    "description": "A powerful guardian dog from the Moroccan Atlas Mountains. Aidis are protective, loyal, and independent. They're excellent guardians for families but need experienced owners and proper socialization."
+  },
+  {
+    "name": "australian cattle dog",
+    "description": "An intelligent and energetic herding dog full of personality. Australian Cattle Dogs are loyal to their families and need plenty of mental and physical activity. They're perfect for active, engaged owners."
+  },
+  {
+    "name": "australian kelpie dog",
+    "description": "A tireless and intelligent working dog bred for herding. Kelpies are incredibly agile and responsive, thriving in active environments. They excel in dog sports and need constant engagement."
+  },
+  {
+    "name": "australian shepherd dog",
+    "description": "Despite the name, developed in the American West. Australian Shepherds are intelligent, loyal, and energetic. They're excellent family dogs for active households and excel in dog sports and training."
+  },
+  {
+    "name": "australian silky terrier dog",
+    "description": "A small but spirited dog with a beautiful silky coat. Silky Terriers are friendly and responsive, making wonderful lap dogs. They enjoy playtime and require regular grooming to maintain their lustrous coat."
+  },
+  {
+    "name": "australian stumpy tail cattle dog",
+    "description": "Similar to the Australian Cattle Dog but naturally bobtailed. Stumpys are energetic, loyal, and hardworking. They're great companions for families who can provide plenty of exercise and mental stimulation."
+  },
+  {
+    "name": "australian terrier dog",
+    "description": "A small but feisty Australian dog with a bold personality. Australian Terriers are friendly, affectionate, and eager to please. They make excellent apartment dogs despite their spunky terrier temperament."
+  },
+  {
+    "name": "austrian pinscher dog",
+    "description": "A medium-sized working dog from Austria known for alertness and loyalty. Austrian Pinschers are energetic and protective of their families. They need socialization and enjoy having a job to do."
+  },
+  {
+    "name": "austrian black and tan hound dog",
+    "description": "A dedicated hunting hound from Austria with excellent tracking abilities. These hounds are tireless and determined, making them perfect for active hunters. They're affectionate with their families."
+  },
+  {
+    "name": "auvergne pointer dog",
+    "description": "A French pointing dog with excellent hunting instincts and a calm demeanor. Auvergne Pointers are devoted to their families and thrive when given a job to do. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "azawakh dog",
+    "description": "An elegant African sighthound known for grace and speed. Azawakhs are independent but deeply loyal to their families. They're sensitive and thrive with gentle handling and positive reinforcement."
+  },
+  {
+    "name": "basenji dog",
+    "description": "The 'barkless dog' known for its yodel-like vocalizations. Basenjis are intelligent, independent, and cat-like in their cleanliness. They're perfect for those seeking a unique and loyal companion."
+  },
+  {
+    "name": "basset fauve de bretagne dog",
+    "description": "A determined hunting dog from France with a charming personality. These hounds are energetic and passionate about tracking. They make wonderful companions for active families who enjoy outdoor activities."
+  },
+  {
+    "name": "basset hound dog",
+    "description": "A short-legged hound with long ears and soulful eyes. Basset Hounds are laid-back and loving, though they can be stubborn. They make wonderful family dogs but require regular exercise to stay healthy."
+  },
+  {
+    "name": "bavarian mountain scent hound dog",
+    "description": "A dedicated working dog from Bavaria with an exceptional nose. These hounds are tireless trackers and deeply devoted to their work. They require experienced owners and plenty of outdoor activity."
+  },
+  {
+    "name": "beagle dog",
+    "description": "A cheerful and curious pack hound famous for their nose. Beagles are friendly with everyone and love food and adventure. They're wonderful family dogs but can be determined hunters when on a scent."
+  },
+  {
+    "name": "beagle harrier dog",
+    "description": "A medium-sized French hunting dog combining Beagle and Harrier traits. Beagle Harriers are energetic, friendly, and excel in pack hunting. They make great companions for active families."
+  },
+  {
+    "name": "bearded collie dog",
+    "description": "A cheerful and boisterous herding dog with a charming personality. Bearded Collies are intelligent and affectionate, thriving in active families. Their long coat requires regular grooming and maintenance."
+  },
+  {
+    "name": "bedlington terrier dog",
+    "description": "A unique-looking terrier resembling a lamb in appearance. Bedlington Terriers are gentle and affectionate, though they retain terrier spirit. They make wonderful family dogs and excel in dog sports."
+  },
+  {
+    "name": "belgian shepherd dog",
+    "description": "An intelligent and versatile working dog known for excellence in protection and herding. Belgian Shepherds are loyal, eager, and highly trainable. They need experienced owners and significant mental and physical exercise."
+  },
+  {
+    "name": "bergamasco shepherd dog",
+    "description": "An Italian shepherd with a distinctive matted coat. Bergamascans are intelligent, calm, and devoted to their families. Their unique coat is low-maintenance and becomes beautiful as they mature."
+  },
+  {
+    "name": "berger de beauce dog",
+    "description": "A powerful French herding dog with a commanding presence. These dogs are intelligent and loyal, excelling in various canine sports. They need consistent training and plenty of exercise."
+  },
+  {
+    "name": "bernese mountain dog",
+    "description": "A large, affectionate dog with a striking tri-color coat. Bernese Mountain Dogs are gentle giants who love their families deeply. They're excellent with children but have a limited lifespan and need moderate exercise."
+  },
+  {
+    "name": "bichon frise dog",
+    "description": "A small, cheerful dog with a fluffy white coat and big personality. Bichon Frises are playful, affectionate, and sociable. They make wonderful companions and excel as therapy dogs."
+  },
+  {
+    "name": "billy dog",
+    "description": "A French hunting dog known for speed and determination. Billys are rare but make devoted companions for those who understand hunting dog temperaments. They need extensive exercise and space."
+  },
+  {
+    "name": "black and tan coonhound dog",
+    "description": "An American hunting dog bred for tracking raccoons and larger game. These hounds are determined and tireless with an excellent sense of smell. They make wonderful companions for active families."
+  },
+  {
+    "name": "bloodhound dog",
+    "description": "The ultimate tracking dog with an incomparable nose. Bloodhounds are gentle, patient, and singularly focused on scents. They make wonderful family dogs despite their independent hunting nature."
+  },
+  {
+    "name": "blue gascony basset dog",
+    "description": "A French basset hound known for hunting and friendly disposition. These dogs are sturdy and determined with excellent tracking abilities. They make wonderful companions for those who appreciate scent-focused hunting dogs."
+  },
+  {
+    "name": "blue gascony griffon dog",
+    "description": "A French hunting dog with a distinctive wiry coat and blue coloring. These dogs are energetic and passionate about hunting. They make devoted companions for active, experienced dog owners."
+  },
+  {
+    "name": "blue picardy spaniel dog",
+    "description": "A French pointing breed known for excellence in hunting. Blue Picardy Spaniels are intelligent, enthusiastic, and devoted. They make wonderful hunting companions and active family members."
+  },
+  {
+    "name": "bohemian shepherd dog",
+    "description": "A Czech herding dog known for loyalty and intelligence. Bohemian Shepherds are energetic and devoted to their families. They excel in various dog sports and need consistent training and exercise."
+  },
+  {
+    "name": "bohemian wire-haired pointing griffon dog",
+    "description": "A Czech hunting dog with a distinctive rough coat. These dogs are intelligent and determined hunters. They make wonderful companions for active families who enjoy outdoor pursuits."
+  },
+  {
+    "name": "bolognese dog",
+    "description": "An Italian toy breed known for devotion to their owners. Bolognese dogs are gentle, affectionate, and love being close to their people. They make wonderful lap dogs and adapt well to various living situations."
+  },
+  {
+    "name": "border collie dog",
+    "description": "Widely considered the most intelligent dog breed. Border Collies are incredibly responsive, athletic, and tireless. They need experienced owners who can provide substantial mental and physical stimulation."
+  },
+  {
+    "name": "border terrier dog",
+    "description": "A small but sturdy terrier with a bold personality. Border Terriers are affectionate and playful, despite their independent nature. They make wonderful family dogs for active households."
+  },
+  {
+    "name": "borzoi - russian hunting sighthound dog",
+    "description": "An elegant Russian sighthound known for grace and speed. Borzois are gentle and quiet, though they retain a strong prey drive. They make wonderful companions for those with space and appreciation for their independent nature."
+  },
+  {
+    "name": "bosnian and herzegovinian - croatian shepherd dog",
+    "description": "A Balkan herding dog known for loyalty and protective instincts. These dogs are intelligent and devoted to their families. They need consistent training and make excellent guardians."
+  },
+  {
+    "name": "bosnian broken-haired hound - called barak dog",
+    "description": "A Balkan hunting hound with a distinctive rough coat. Baraks are determined hunters with friendly dispositions. They make wonderful companions for active families and those who appreciate traditional hunting breeds."
+  },
+  {
+    "name": "boston terrier dog",
+    "description": "A charming American dog known as the 'American Gentleman.' Boston Terriers are affectionate, playful, and excellent with families. They adapt well to apartment living and make wonderful companion dogs."
+  },
+  {
+    "name": "bourbonnais pointing dog",
+    "description": "A French pointing breed known for gentle nature and hunting ability. Bourbonnais are intelligent and devoted. They make excellent hunting companions and loving family members."
+  },
+  {
+    "name": "bouvier des ardennes dog",
+    "description": "A Belgian herding dog known for hardiness and loyalty. Bouviers des Ardennes are energetic and devoted to their work. They need experienced owners and plenty of exercise."
+  },
+  {
+    "name": "bouvier des flandres dog",
+    "description": "A large Belgian herding dog with a distinctive beard and mustache. Bouviers are intelligent, loyal, and make excellent family protectors. Their rough coat requires regular grooming and maintenance."
+  },
+  {
+    "name": "boxer dog",
+    "description": "A medium-sized German dog known for playful energy and loyalty. Boxers are affectionate clowns who love their families deeply. They're protective without being aggressive and make wonderful family companions."
+  },
+  {
+    "name": "brazilian terrier dog",
+    "description": "A small Brazilian dog with a spirited personality and hunting instincts. Brazilian Terriers are alert, playful, and affectionate with their families. They make wonderful companions for those who appreciate terrier character."
+  },
+  {
+    "name": "brazilian tracker dog",
+    "description": "A hunting dog bred for tracking in Brazilian terrain. These dogs are tireless and determined with excellent scenting abilities. They're devoted to their work and make wonderful companions for active outdoor enthusiasts."
+  },
+  {
+    "name": "briard dog",
+    "description": "A large French herding dog with a long, flowing coat. Briards are intelligent, loyal, and protective of their families. They need experienced owners, regular grooming, and plenty of exercise."
+  },
+  {
+    "name": "briquet griffon vendeen dog",
+    "description": "A French hunting dog with a distinctive wiry coat. Briquet Griffon Vendeens are energetic and determined hunters. They make devoted companions for active families who appreciate their hunting heritage."
+  },
+  {
+    "name": "brittany spaniel dog",
+    "description": "A spirited and athletic hunting breed known for eagerness. Brittany Spaniels are sensitive and responsive, making them excellent training partners. They're wonderful family dogs for active households."
+  },
+  {
+    "name": "broholmer dog",
+    "description": "A Danish mastiff breed known for gentle giant temperament. Broholmers are loyal, calm, and protective of their families. They're excellent with children and make wonderful family dogs despite their large size."
+  },
+  {
+    "name": "bull terrier dog",
+    "description": "A powerful and muscular terrier with a distinctive egg-shaped head. Bull Terriers are devoted to their people and need firm, consistent training. In the right hands, they're wonderful, loving companions."
+  },
+  {
+    "name": "bulldog",
+    "description": "An iconic British dog known for determination and charm. Bulldogs are gentle, affectionate, and excellent with families. They require careful attention to health due to breeding and limited exercise tolerance."
+  },
+  {
+    "name": "bullmastiff dog",
+    "description": "A large dog combining Bulldog and Mastiff traits. Bullmastiffs are loyal guardians who are gentle with their families. They need experienced owners and benefit from consistent training and socialization."
+  },
+  {
+    "name": "burgos pointing dog",
+    "description": "A Spanish pointing breed known for hunting excellence. Burgos Pointers are dedicated hunters with excellent noses. They make wonderful companions for those who appreciate traditional hunting breeds."
+  },
+  {
+    "name": "cairn terrier dog",
+    "description": "A small Scottish terrier with a big personality and working terrier spirit. Cairn Terriers are confident, independent, and affectionate with their families. They make wonderful companions for those who appreciate terrier character."
+  },
+  {
+    "name": "canaan dog",
+    "description": "An ancient Israeli breed known for intelligence and loyalty. Canaan Dogs are alert and protective, making excellent family guardians. They're athletic and need experienced, consistent owners."
+  },
+  {
+    "name": "canadian eskimo dog",
+    "description": "A powerful Arctic sled dog known for endurance and strength. Canadian Eskimo Dogs are loyal and devoted to their families. They need experienced owners who understand their working heritage."
+  },
+  {
+    "name": "canarian warren hound dog",
+    "description": "A small Spanish hunting dog with excellent hunting instincts. Canarian Warren Hounds are energetic and determined. They make wonderful companions for active families who appreciate their hunting abilities."
+  },
+  {
+    "name": "castro laboreiro dog",
+    "description": "A Portuguese livestock guardian known for protective instincts. Castro Laboreiros are loyal and devoted to their families. They need experienced owners and proper socialization to thrive."
+  },
+  {
+    "name": "catalan sheepdog",
+    "description": "A Spanish herding dog known for intelligence and loyalty. Catalan Sheepdogs are energetic and responsive. They excel in dog sports and need consistent training and plenty of exercise."
+  },
+  {
+    "name": "caucasian shepherd dog",
+    "description": "A massive livestock guardian dog known for protective instincts. Caucasian Shepherds are loyal to their families and can be independent. They need experienced, firm owners and proper socialization."
+  },
+  {
+    "name": "cavalier king charles spaniel dog",
+    "description": "A gentle and affectionate toy dog known for sweetness. Cavalier King Charles Spaniels are wonderful with families and other pets. They adapt well to various living situations and make excellent therapy dogs."
+  },
+  {
+    "name": "central asia shepherd dog",
+    "description": "A large Central Asian livestock guardian with protective instincts. These dogs are loyal and independent. They need experienced owners who can provide proper guidance and socialization."
+  },
+  {
+    "name": "cesky terrier dog",
+    "description": "A Czech terrier breed with a calm yet spirited nature. Cesky Terriers are affectionate and loyal to their families. They make wonderful companions for those who appreciate the terrier temperament."
+  },
+  {
+    "name": "chesapeake bay retriever dog",
+    "description": "An American retriever bred for hunting waterfowl in harsh conditions. Chesapeake Bays are tough, loyal, and devoted to their families. They need active lifestyles and plenty of water time."
+  },
+  {
+    "name": "chihuahua dog",
+    "description": "The smallest dog breed known for big personality in a tiny package. Chihuahuas are loyal, spirited, and devoted to their owners. They make wonderful companions for those who appreciate their bold character."
+  },
+  {
+    "name": "chinese crested dog",
+    "description": "An unusual breed available in hairless and powderpuff varieties. Chinese Crested dogs are affectionate and enjoy being lap dogs. They're excellent for those seeking a unique and devoted companion."
+  },
+  {
+    "name": "chow chow dog",
+    "description": "A Chinese breed known for a distinctive blue-black tongue and lion-like appearance. Chow Chows are loyal and independent, requiring experienced owners. They make excellent guardians for the right families."
+  },
+  {
+    "name": "cimarron uruguayo dog",
+    "description": "A Uruguayan dog known for strength and loyalty to their families. Cimarrons are protective guardians who need experienced owners. They require proper socialization and training to thrive as family members."
+  },
+  {
+    "name": "cirneco dell'etna dog",
+    "description": "An ancient Sicilian sighthound of exceptional grace. Cirneco dell'Etnas are independent and sensitive. They make wonderful companions for those who appreciate their elegant nature and independent spirit."
+  },
+  {
+    "name": "clumber spaniel dog",
+    "description": "A large English spaniel breed known for gentleness and loyalty. Clumber Spaniels are excellent hunters and devoted family members. They're wonderful with children and make excellent therapy dogs."
+  },
+  {
+    "name": "coarse-haired styrian hound dog",
+    "description": "An Austrian hunting dog with a distinctive rough coat. These hounds are determined and tireless. They make wonderful companions for active hunters and families who appreciate traditional hunting breeds."
+  },
+  {
+    "name": "collie rough dog",
+    "description": "A Scottish herding dog with a long, flowing coat. Rough Collies are intelligent, loyal, and excellent with families. They require regular grooming and enjoy having a job to do."
+  },
+  {
+    "name": "collie smooth dog",
+    "description": "The smooth-coated version of the Collie breed. Smooth Collies are intelligent and loyal with lower grooming requirements than their rough-coated cousins. They make excellent family dogs."
+  },
+  {
+    "name": "continental bulldog",
+    "description": "A modern breed combining bulldog traits with better health. Continental Bulldogs are friendly and active. They make wonderful family dogs for those seeking a healthier bulldog alternative."
+  },
+  {
+    "name": "continental toy spaniel dog",
+    "description": "A tiny toy breed with distinctive large, erect ears. Continental Toy Spaniels are intelligent, affectionate, and responsive. They make excellent companions for those seeking elegant lap dogs."
+  },
+  {
+    "name": "coton de tulear dog",
+    "description": "A Madagascan toy breed known for a soft cotton-like coat. Cotons de Tulear are affectionate and playful. They thrive on companionship and make wonderful family pets."
+  },
+  {
+    "name": "croatian shepherd dog",
+    "description": "A Balkan herding dog known for loyalty and work ethic. Croatian Shepherds are intelligent and devoted to their families. They need consistent training and plenty of exercise."
+  },
+  {
+    "name": "curly coated retriever dog",
+    "description": "A retriever with a distinctive curly coat. Curly Coated Retrievers are intelligent, independent, and excellent hunters. They're wonderful family dogs for active households."
+  },
+  {
+    "name": "czechoslovakian wolfdog",
+    "description": "A dog-wolf hybrid known for unique appearance and challenging temperament. Czechoslovakian Wolfdogs require experienced owners who understand their wild heritage. They're not suitable for typical family environments."
+  },
+  {
+    "name": "dachshund dog",
+    "description": "A small German dog with a long body and short legs, originally bred for badger hunting. Dachshunds are courageous, curious, and affectionate. Available in three sizes and two coat varieties."
+  },
+  {
+    "name": "dalmatian dog",
+    "description": "A distinctive spotted dog known for energy and stamina. Dalmatians are playful and loyal, thriving in active families. They need plenty of exercise and have strong hunting instincts."
+  },
+  {
+    "name": "dandie dinmont terrier dog",
+    "description": "A small Scottish terrier with a distinctive silhouette. Dandie Dinmont Terriers are independent and spirited. They make wonderful companions for those who appreciate traditional terrier temperaments."
+  },
+  {
+    "name": "danish-swedish farmdog",
+    "description": "A Scandinavian breed with a working farm dog heritage. These dogs are intelligent, loyal, and energetic. They make wonderful family companions and farm workers."
+  },
+  {
+    "name": "deerhound dog",
+    "description": "A Scottish sighthound known for grace and nobility. Deerhounds are gentle, devoted, and excellent hunters. They make wonderful companions for those with space for their athletic nature."
+  },
+  {
+    "name": "deutsch langhaar dog",
+    "description": "A German pointing breed with a long, dense coat. Deutsch Langhaars are excellent hunters with devoted temperaments. They need active lifestyles and experienced owners."
+  },
+  {
+    "name": "deutsch stichelhaar dog",
+    "description": "A German hunting dog with a distinctive wiry coat. Deutsch Stichelhaars are determined hunters with friendly dispositions. They make wonderful companions for active families."
+  },
+  {
+    "name": "dobermann dog",
+    "description": "A German working dog known for intelligence and loyalty. Dobermanns are excellent protectors and devoted family members. They need experienced owners, consistent training, and plenty of activity."
+  },
+  {
+    "name": "dogo argentino",
+    "description": "An Argentine hunting dog known for strength and courage. Dogos Argentinos are loyal and protective. They need experienced owners who can provide firm, consistent training and socialization."
+  },
+  {
+    "name": "dogue de bordeaux",
+    "description": "A French mastiff known for massive size and gentle nature. Dogues de Bordeaux are loyal family guardians. They require experienced owners and careful attention to health and exercise needs."
+  },
+  {
+    "name": "drentsche partridge dog",
+    "description": "A Dutch hunting dog known for enthusiasm and versatility. Drentsche Partridge Dogs are intelligent and responsive. They make wonderful hunting companions and active family members."
+  },
+  {
+    "name": "drever dog",
+    "description": "A Swedish hunting dog with short legs and determined spirit. Drevers are tireless trackers with friendly dispositions. They make wonderful companions for active families."
+  },
+  {
+    "name": "dutch schapendoes dog",
+    "description": "A Dutch herding dog with a distinctive shaggy coat. Dutch Schapendoes are intelligent and playful. They need consistent training and regular grooming."
+  },
+  {
+    "name": "dutch shepherd dog",
+    "description": "A versatile Dutch working dog known for intelligence and loyalty. Dutch Shepherds are excellent for herding, police work, and families. They need experienced owners and significant exercise."
+  },
+  {
+    "name": "dutch smoushond dog",
+    "description": "A small Dutch dog with a distinctive mustache and beard. Dutch Smoushonds are friendly and alert. They make wonderful companions for those seeking small, sturdy dogs."
+  },
+  {
+    "name": "east siberian laika dog",
+    "description": "A Russian hunting dog known for endurance and independence. East Siberian Laikas are loyal to their families. They need experienced owners who understand their hunting heritage."
+  },
+  {
+    "name": "english cocker spaniel dog",
+    "description": "A talented hunting spaniel known for enthusiasm and responsiveness. English Cocker Spaniels are devoted family members. They need active lifestyles and regular grooming."
+  },
+  {
+    "name": "english foxhound dog",
+    "description": "An English hunting dog bred for fox hunting in packs. English Foxhounds are pack animals who are friendly and loyal. They're best for those with space and appreciation for pack dynamics."
+  },
+  {
+    "name": "english pointer dog",
+    "description": "An English pointing breed known for excellence in hunting. English Pointers are athletic, responsive, and devoted to their work. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "english setter dog",
+    "description": "An elegant English hunting breed known for grace and intelligence. English Setters are devoted companions who need plenty of exercise. They're wonderful family dogs for active households."
+  },
+  {
+    "name": "english springer spaniel dog",
+    "description": "A versatile English spaniel known for eagerness and intelligence. English Springer Spaniels are devoted family members and excellent hunters. They need regular grooming and active lifestyles."
+  },
+  {
+    "name": "english toy terrier (black & tan) dog",
+    "description": "A small English toy breed with spirited personality. English Toy Terriers are alert and affectionate. They make wonderful companions for those seeking lively lap dogs."
+  },
+  {
+    "name": "entlebuch cattle dog",
+    "description": "A Swiss herding dog known for loyalty and intelligence. Entlebucher Mountain Dogs are energetic and devoted. They need consistent training and regular exercise."
+  },
+  {
+    "name": "estonian hound dog",
+    "description": "A medium-sized Estonian hunting dog with excellent scenting abilities. These hounds are determined and friendly. They make wonderful companions for hunters and active families."
+  },
+  {
+    "name": "estrela mountain dog",
+    "description": "A Portuguese livestock guardian dog known for loyalty. Estrela Mountain Dogs are protective and devoted to their families. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "eurasian dog",
+    "description": "A Russian/German spitz-type breed known for loyalty and independence. Eurasians are intelligent and devoted. They need experienced owners who understand their independent nature."
+  },
+  {
+    "name": "fawn brittany griffon dog",
+    "description": "A French hunting dog with a distinctive tan/fawn color. Fawn Brittany Griffons are determined hunters with friendly dispositions. They make excellent companions for active families."
+  },
+  {
+    "name": "field spaniel dog",
+    "description": "A longer, lower spaniel breed known for hunting ability. Field Spaniels are intelligent and responsive. They make wonderful hunting companions and family members."
+  },
+  {
+    "name": "fila brasileiro dog",
+    "description": "A Brazilian dog known for protective instincts and loyalty. Filas Brasileiros are devoted guardians who need experienced owners. Proper training and socialization are essential."
+  },
+  {
+    "name": "finnish hound dog",
+    "description": "A Finnish hunting dog known for determination and friendliness. Finnish Hounds are excellent trackers. They make wonderful companions for active hunters and families."
+  },
+  {
+    "name": "finnish lapponian dog",
+    "description": "A Lapp herding dog known for loyalty and work ethic. Finnish Lapponian Dogs are intelligent and devoted. They need consistent training and regular activity."
+  },
+  {
+    "name": "finnish spitz dog",
+    "description": "A Finnish hunting dog known for distinctive barking ability. Finnish Spitzes are independent yet devoted to their families. They need experienced owners who appreciate their unique characteristics."
+  },
+  {
+    "name": "flat coated retriever dog",
+    "description": "A British retriever with a long, flat coat. Flat Coated Retrievers are cheerful, intelligent, and devoted. They're excellent family dogs for active households and love water activities."
+  },
+  {
+    "name": "fox terrier (smooth) dog",
+    "description": "A short-coated terrier breed with bold spirit. Smooth Fox Terriers are alert, friendly, and athletic. They make wonderful companions for those who appreciate terrier character."
+  },
+  {
+    "name": "fox terrier (wire) dog",
+    "description": "A wire-coated version of the Fox Terrier breed. Wire Fox Terriers are spirited and determined. They make excellent companions for active owners who enjoy their terrier personality."
+  },
+  {
+    "name": "french bulldog",
+    "description": "A small French dog with bat-like ears and charming personality. French Bulldogs are affectionate and playful. They adapt well to apartment living and make wonderful companion dogs."
+  },
+  {
+    "name": "french pointing dog - pyrenean type",
+    "description": "A French pointing breed from the Pyrenees with hunting excellence. These dogs are intelligent and devoted. They make wonderful hunting companions and family members."
+  },
+  {
+    "name": "french spaniel dog",
+    "description": "A French pointing dog with excellent hunting abilities. French Spaniels are intelligent and responsive. They make devoted hunting companions for active families."
+  },
+  {
+    "name": "french tricolour hound dog",
+    "description": "A French pack hound known for hunting prowess and friendly nature. French Tricolour Hounds are determined and devoted. They make wonderful companions for hunters and active families."
+  },
+  {
+    "name": "french water dog",
+    "description": "A French water dog known for intelligence and versatility. French Water Dogs are responsive and devoted. They excel in various activities including hunting and family companionship."
+  },
+  {
+    "name": "french white & black hound dog",
+    "description": "A French pack hound with striking coloring. These hounds are determined hunters with friendly temperaments. They make wonderful companions for those who appreciate traditional hunting breeds."
+  },
+  {
+    "name": "french white and orange hound dog",
+    "description": "A French pack hound known for hunting ability and friendly nature. These dogs are dedicated hunters. They make wonderful companions for hunters and active families."
+  },
+  {
+    "name": "frisian water dog",
+    "description": "A Dutch water dog with a curly coat and working heritage. Frisian Water Dogs are intelligent and devoted. They make excellent hunting and family companions."
+  },
+  {
+    "name": "gascon saintongeois dog",
+    "description": "A French hunting dog known for excellent tracking abilities. Gascon Saintongeois dogs are determined and friendly. They make wonderful hunting companions."
+  },
+  {
+    "name": "german hound dog",
+    "description": "A German hunting dog with excellent scenting ability. German Hounds are determined trackers. They make wonderful companions for hunters and active families."
+  },
+  {
+    "name": "german hunting terrier dog",
+    "description": "A German terrier breed known for hunting prowess. German Hunting Terriers are courageous and determined. They need experienced owners who understand their working heritage."
+  },
+  {
+    "name": "german pinscher dog",
+    "description": "A German dog with a sleek appearance and spirited personality. German Pinschers are alert and loyal. They make excellent guard dogs and devoted family members."
+  },
+  {
+    "name": "german shepherd dog",
+    "description": "One of the most versatile dog breeds known for intelligence and loyalty. German Shepherds excel as police, military, and service dogs. They're wonderful family guardians for experienced owners."
+  },
+  {
+    "name": "german short-haired pointing dog",
+    "description": "A versatile German hunting dog known for excellence and athleticism. German Shorthaired Pointers are intelligent and devoted. They need active lifestyles and make wonderful hunting and family companions."
+  },
+  {
+    "name": "german spaniel dog",
+    "description": "A German hunting dog with pointing and retrieving abilities. German Spaniels are intelligent and responsive. They make excellent hunting companions and active family members."
+  },
+  {
+    "name": "german spitz dog",
+    "description": "A German spitz-type breed known for loyalty and alertness. German Spitz comes in several sizes. They make wonderful companions for various living situations."
+  },
+  {
+    "name": "german wire-haired pointing dog",
+    "description": "A German hunting dog with a distinctive wire coat. German Wirehaired Pointers are intelligent and versatile. They need active families and make excellent hunting companions."
+  },
+  {
+    "name": "giant schnauzer dog",
+    "description": "A large German dog with a distinctive beard and eyebrows. Giant Schnauzers are intelligent, loyal, and protective. They need experienced owners and regular grooming."
+  },
+  {
+    "name": "golden retriever dog",
+    "description": "One of the most popular breeds known for friendliness and intelligence. Golden Retrievers are devoted family members and excellent service dogs. They need regular exercise and grooming."
+  },
+  {
+    "name": "gordon setter dog",
+    "description": "A Scottish hunting dog with an elegant black coat. Gordon Setters are devoted and intelligent. They make excellent hunting companions and wonderful family dogs."
+  },
+  {
+    "name": "grand basset griffon vendeen dog",
+    "description": "A French hunting dog with a distinctive rough coat. Grand Basset Griffon Vendeens are determined and friendly. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "grand griffon vendeen dog",
+    "description": "A larger French griffon breed known for hunting ability. Grand Griffon Vendeens are determined and devoted. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "great anglo-french tricolour hound dog",
+    "description": "A French pack hound known for hunting prowess. These dogs are determined and friendly. They make wonderful companions for those who appreciate traditional hunting breeds."
+  },
+  {
+    "name": "great anglo-french white & orange hound dog",
+    "description": "A French pack hound with distinctive coloring. These dogs are dedicated hunters with friendly temperaments. They make wonderful hunting companions."
+  },
+  {
+    "name": "great anglo-french white and black hound dog",
+    "description": "A French pack hound known for hunting excellence. These dogs are determined and devoted. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "great dane dog",
+    "description": "A German dog breed known for massive size and gentle nature. Great Danes are often called 'gentle giants' and are affectionate family members. They require careful attention to health."
+  },
+  {
+    "name": "great gascony blue dog",
+    "description": "A French pack hound with distinctive blue coloring. These dogs are dedicated hunters. They make wonderful hunting companions for those who appreciate traditional hunting breeds."
+  },
+  {
+    "name": "great swiss mountain dog",
+    "description": "A large Swiss dog known for strength and loyalty. Great Swiss Mountain Dogs are devoted family guardians. They need regular exercise and experienced, consistent owners."
+  },
+  {
+    "name": "greenland dog",
+    "description": "An Arctic sled dog known for strength and endurance. Greenland Dogs are loyal and hardworking. They need experienced owners who understand their working heritage."
+  },
+  {
+    "name": "greyhound dog",
+    "description": "An ancient sighthound known for incredible speed and grace. Greyhounds are gentle and loving despite their racing heritage. They make wonderful family companions and adapt well to retired racing dogs."
+  },
+  {
+    "name": "griffon belge dog",
+    "description": "A small Belgian toy breed with distinctive facial features. Griffon Belges are affectionate and entertaining. They make wonderful companions for those seeking small, spirited dogs."
+  },
+  {
+    "name": "griffon bruxellois dog",
+    "description": "A small Belgian toy breed known for self-assured nature. Griffon Bruxellois are intelligent and affectionate. They make excellent lap dogs and companions."
+  },
+  {
+    "name": "griffon nivernais dog",
+    "description": "A French hunting dog with a distinctive rough coat. Griffon Nivernais are determined hunters with friendly dispositions. They make wonderful hunting companions."
+  },
+  {
+    "name": "halden hound dog",
+    "description": "A Norwegian hunting dog known for determination and excellence. Halden Hounds are friendly and devoted. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "hamiltonstövare dog",
+    "description": "A Swedish hunting dog with elegant appearance. Hamiltonstövares are friendly and determined hunters. They make wonderful companions for active hunting and family environments."
+  },
+  {
+    "name": "hanoverian scent hound dog",
+    "description": "A German tracking dog known for excellence in scent work. Hanoverian Scent Hounds are determined and devoted. They need experienced owners who understand hunting dog temperaments."
+  },
+  {
+    "name": "harrier dog",
+    "description": "A medium-sized English hunting hound. Harriers are pack animals known for determination and friendliness. They make wonderful companions for those who appreciate traditional hunting breeds."
+  },
+  {
+    "name": "havanese dog",
+    "description": "A small Cuban dog known for devotion to their owners. Havanese are affectionate and playful. They make wonderful companion dogs and excel as therapy dogs."
+  },
+  {
+    "name": "hellenic hound dog",
+    "description": "A Greek hunting dog known for determination and ability. Hellenic Hounds are friendly and devoted. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "hokkaido dog",
+    "description": "A Japanese dog known for loyalty and spirited nature. Hokkaido Dogs are devoted to their families. They need experienced owners who understand their independent character."
+  },
+  {
+    "name": "hovawart dog",
+    "description": "A German working dog known for loyalty and intelligence. Hovawarts are devoted family guardians. They need experienced owners and consistent training."
+  },
+  {
+    "name": "hungarian greyhound dog",
+    "description": "A Hungarian sighthound known for speed and elegance. Hungarian Greyhounds are gentle and devoted. They make wonderful companions for those with appreciation for sighthound nature."
+  },
+  {
+    "name": "hungarian hound - transylvanian scent hound dog",
+    "description": "A Hungarian hunting dog with excellent scenting ability. These hounds are determined and friendly. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "hungarian short-haired pointer (vizsla) dog",
+    "description": "A Hungarian pointing dog known for elegance and devotion. Vizslas are athletic and responsive. They need active families and make excellent hunting and family companions."
+  },
+  {
+    "name": "hungarian wire-haired pointer dog",
+    "description": "A Hungarian hunting dog with a distinctive wire coat. Wire-haired Vizslas are determined and devoted. They need active lifestyles and make wonderful hunting companions."
+  },
+  {
+    "name": "hygen hound dog",
+    "description": "A Norwegian hunting dog known for friendliness and determination. Hygen Hounds are excellent trackers. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "ibizan podenco dog",
+    "description": "A Spanish sighthound known for grace and athleticism. Ibizan Podencans are independent yet devoted. They make wonderful companions for those with appreciation for sighthound nature."
+  },
+  {
+    "name": "icelandic sheepdog",
+    "description": "An Icelandic herding dog with a spitz-like appearance. Icelandic Sheepdogs are intelligent and devoted. They need consistent training and regular exercise."
+  },
+  {
+    "name": "irish glen of imaal terrier dog",
+    "description": "An Irish terrier breed known for strength and determination. Glen of Imaal Terriers are spirited and loyal. They make wonderful companions for those who appreciate terrier character."
+  },
+  {
+    "name": "irish red and white setter dog",
+    "description": "An Irish hunting dog with distinctive red and white coloring. Irish Red and White Setters are intelligent and devoted. They need active lifestyles and make wonderful hunting companions."
+  },
+  {
+    "name": "irish red setter dog",
+    "description": "An Irish hunting dog known for elegance and enthusiasm. Irish Red Setters are devoted and playful. They make wonderful family dogs for active households."
+  },
+  {
+    "name": "irish soft coated wheaten terrier dog",
+    "description": "An Irish terrier with a distinctive wheaten-colored coat. Wheaten Terriers are affectionate and spirited. They make wonderful family dogs and companions."
+  },
+  {
+    "name": "irish terrier dog",
+    "description": "An Irish terrier known for determination and devotion. Irish Terriers are spirited and loyal. They make wonderful companions for those who appreciate traditional terrier nature."
+  },
+  {
+    "name": "irish water spaniel dog",
+    "description": "An Irish spaniel with a distinctive curly coat. Irish Water Spaniels are intelligent and devoted hunters. They love water and make wonderful hunting and family companions."
+  },
+  {
+    "name": "irish wolfhound dog",
+    "description": "An Irish sighthound of massive size. Irish Wolfhounds are gentle and devoted despite their size. They're often called gentle giants and make wonderful family companions."
+  },
+  {
+    "name": "istrian short-haired hound dog",
+    "description": "A Croatian/Slovenian hunting dog with short coat. Istrian Hounds are determined and friendly. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "istrian wire-haired hound dog",
+    "description": "A Croatian/Slovenian hunting dog with a distinctive wire coat. These hounds are dedicated hunters. They make wonderful companions for active hunting families."
+  },
+  {
+    "name": "italian cane corso dog",
+    "description": "An Italian mastiff known for power and loyalty. Cane Corsos are devoted family guardians. They need experienced owners and proper training and socialization."
+  },
+  {
+    "name": "italian pointing dog",
+    "description": "An Italian hunting dog with excellent pointing ability. Italian Pointers are intelligent and devoted. They make wonderful hunting companions and family members."
+  },
+  {
+    "name": "italian rough-haired segugio dog",
+    "description": "An Italian hunting dog with a rough coat. Rough-haired Segugi are determined hunters. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "italian short-haired segugio dog",
+    "description": "An Italian hunting dog with a short coat. Short-haired Segugi are friendly and determined hunters. They make wonderful hunting companions."
+  },
+  {
+    "name": "italian sighthound dog",
+    "description": "An Italian sighthound of small to medium size. Italian Sighthounds are gentle and devoted. They make wonderful companions for those with appreciation for sighthound breeds."
+  },
+  {
+    "name": "italian spinone dog",
+    "description": "An Italian hunting dog with a distinctive wiry coat. Spinone Italiani are intelligent and devoted. They make excellent hunting and family companions."
+  },
+  {
+    "name": "italian volpino dog",
+    "description": "A small Italian spitz breed with a fluffy white coat. Italian Volpini are intelligent and devoted. They make wonderful companions for those seeking small, spirited dogs."
+  },
+  {
+    "name": "jack russell terrier dog",
+    "description": "A small English terrier known for boundless energy. Jack Russell Terriers are intelligent and spirited. They're perfect for active families who appreciate their terrier enthusiasm."
+  },
+  {
+    "name": "japanese chin dog",
+    "description": "A Japanese toy breed with distinctive facial features. Japanese Chins are affectionate and graceful. They make wonderful lap dogs and companions."
+  },
+  {
+    "name": "japanese spitz dog",
+    "description": "A Japanese spitz breed known for intelligence and loyalty. Japanese Spitz are friendly and devoted. They make wonderful family companions and adapt well to various living situations."
+  },
+  {
+    "name": "japanese terrier dog",
+    "description": "A small Japanese terrier with a spirited personality. Japanese Terriers are alert and affectionate. They make wonderful companions for those seeking small, devoted dogs."
+  },
+  {
+    "name": "jämthund dog",
+    "description": "A Swedish hunting dog known for independence and determination. Jämthunds are loyal to their families. They need experienced owners who understand their hunting heritage."
+  },
+  {
+    "name": "kai dog",
+    "description": "A Japanese hunting dog known for loyalty and independence. Kai Dogs are devoted to their families. They need experienced owners who understand their spirited nature."
+  },
+  {
+    "name": "kangal shepherd dog",
+    "description": "A Turkish livestock guardian dog of massive size. Kangals are loyal and protective. They need experienced owners who understand their working heritage."
+  },
+  {
+    "name": "karelian bear dog",
+    "description": "A Finnish hunting dog known for fearlessness. Karelian Bear Dogs are determined and independent. They need experienced owners and plenty of outdoor space."
+  },
+  {
+    "name": "karst shepherd dog",
+    "description": "A Slovenian livestock guardian dog. Karst Shepherds are loyal and protective. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "kerry blue terrier dog",
+    "description": "An Irish terrier with a distinctive blue-gray coat. Kerry Blue Terriers are spirited and devoted. They make wonderful family dogs for those who appreciate terrier character."
+  },
+  {
+    "name": "king charles spaniel dog",
+    "description": "A small toy spaniel breed known for gentle nature. King Charles Spaniels are affectionate and devoted. They make wonderful lap dogs and companions."
+  },
+  {
+    "name": "kintamani-bali dog",
+    "description": "An Indonesian dog from Bali known for loyalty. Kintamani Dogs are devoted to their families. They need experienced owners who understand their independent nature."
+  },
+  {
+    "name": "kishu dog",
+    "description": "A Japanese hunting dog known for independence and loyalty. Kishus are devoted to their families. They need experienced owners who respect their spirited nature."
+  },
+  {
+    "name": "kleiner münsterlänger dog",
+    "description": "A German pointing dog of small to medium size. Kleiner Münsterlängers are intelligent and devoted hunters. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "komondor dog",
+    "description": "A Hungarian livestock guardian with a distinctive corded coat. Komondors are loyal and protective. They need experienced owners and significant commitment to coat care."
+  },
+  {
+    "name": "korea jindo dog",
+    "description": "A Korean dog known for loyalty and hunting ability. Korea Jindo Dogs are devoted to their families. They need experienced owners who understand their working heritage."
+  },
+  {
+    "name": "kromfohrländer dog",
+    "description": "A German hunting dog with a distinctive appearance. Kromfohrländers are intelligent and devoted. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "kuvasz dog",
+    "description": "A Hungarian livestock guardian dog of large size. Kuvaszs are loyal and protective. They need experienced owners and proper training and socialization."
+  },
+  {
+    "name": "labrador retriever dog",
+    "description": "One of the most popular and versatile dog breeds. Labrador Retrievers are friendly, intelligent, and devoted. They excel as family dogs, service dogs, and hunting companions."
+  },
+  {
+    "name": "lakeland terrier dog",
+    "description": "A small English terrier with a spirited nature. Lakeland Terriers are independent and confident. They make wonderful companions for those who appreciate terrier character."
+  },
+  {
+    "name": "lancashire heeler dog",
+    "description": "A small English herding dog with loyal temperament. Lancashire Heelers are intelligent and energetic. They need consistent training and regular activity."
+  },
+  {
+    "name": "landseer (european continental type) dog",
+    "description": "A European variation of the Newfoundland with distinctive coloring. Landseers are loyal and gentle. They make wonderful family dogs for those with space."
+  },
+  {
+    "name": "lapponian herder dog",
+    "description": "A Scandinavian herding dog known for loyalty and work ethic. Lapponian Herders are intelligent and devoted. They need consistent training and regular exercise."
+  },
+  {
+    "name": "large munsterlander dog",
+    "description": "A German pointing and retrieving dog. Large Münsterlanders are intelligent and devoted hunters. They need active lifestyles and make wonderful hunting and family companions."
+  },
+  {
+    "name": "leonberger dog",
+    "description": "A large German dog with a lion-like appearance. Leonbergers are gentle giants and devoted family members. They need experienced owners and regular exercise."
+  },
+  {
+    "name": "lhasa apso dog",
+    "description": "A small Tibetan dog bred as a monastery guardian. Lhasa Apsos are independent and loyal. They require regular grooming and need owners who appreciate their independent nature."
+  },
+  {
+    "name": "little lion dog",
+    "description": "A small European toy breed with a distinctive appearance. Little Lion Dogs are affectionate and devoted. They make wonderful companions for those seeking small lap dogs."
+  },
+  {
+    "name": "long-haired pyrenean sheepdog",
+    "description": "A French herding dog with a long, flowing coat. Long-haired Pyrenean Sheepdogs are intelligent and devoted. They need consistent training and regular grooming."
+  },
+  {
+    "name": "majorca mastiff dog",
+    "description": "A Spanish mastiff known for loyalty and protective instincts. Majorca Mastiffs are devoted family guardians. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "majorca shepherd dog",
+    "description": "A Spanish herding dog with loyalty and intelligence. Majorca Shepherds are devoted and energetic. They need consistent training and regular activity."
+  },
+  {
+    "name": "maltese dog",
+    "description": "A small toy breed with a long, silky white coat. Maltese dogs are affectionate and playful. They make wonderful companion dogs and excel as therapy dogs."
+  },
+  {
+    "name": "manchester terrier dog",
+    "description": "A sleek English terrier breed with elegant lines. Manchester Terriers are alert and devoted. They make wonderful companions for those seeking small, spirited dogs."
+  },
+  {
+    "name": "maremma and the abruzzes sheepdog",
+    "description": "An Italian livestock guardian dog of large size. Maremmans are loyal and protective. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "mastiff dog",
+    "description": "A giant English dog known for calm, noble temperament. Mastiffs are devoted family guardians. They require careful attention to health and need experienced owners."
+  },
+  {
+    "name": "medium-sized anglo-french hound dog",
+    "description": "A French pack hound of medium size. These dogs are dedicated hunters with friendly dispositions. They make wonderful hunting companions."
+  },
+  {
+    "name": "miniature american shepherd dog",
+    "description": "A small version of the Australian Shepherd. Miniature American Shepherds are intelligent, loyal, and energetic. They need consistent training and regular activity."
+  },
+  {
+    "name": "miniature bull terrier dog",
+    "description": "A small but powerful bull terrier breed. Miniature Bull Terriers are devoted and spirited. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "miniature pinscher dog",
+    "description": "A tiny German dog with the spirit of a large breed. Miniature Pinschers are alert, confident, and playful. They make wonderful companions for those seeking small, spirited dogs."
+  },
+  {
+    "name": "miniature schnauzer dog",
+    "description": "A small German dog with a distinctive beard and eyebrows. Miniature Schnauzers are intelligent and loyal. They need regular grooming and make wonderful family companions."
+  },
+  {
+    "name": "montenegrin mountain hound dog",
+    "description": "A Montenegrin hunting dog known for determination. These hounds are dedicated trackers. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "mudi dog",
+    "description": "A Hungarian herding dog known for intelligence and agility. Mudis are devoted and energetic. They excel in dog sports and need consistent training."
+  },
+  {
+    "name": "neapolitan mastiff dog",
+    "description": "An Italian mastiff with massive size and protective instincts. Neapolitan Mastiffs are devoted family guardians. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "nederlandse kooikerhondje dog",
+    "description": "A small Dutch duck-hunting dog with distinctive features. Nederlandse Kooikerhondjes are intelligent and devoted. They make wonderful companions for active families."
+  },
+  {
+    "name": "newfoundland dog",
+    "description": "A giant Canadian water dog known for strength and gentleness. Newfoundlands are devoted family members and excellent swimmers. They love water and need regular exercise."
+  },
+  {
+    "name": "norfolk terrier dog",
+    "description": "A small English terrier with a friendly nature. Norfolk Terriers are spirited and affectionate. They make wonderful companions for those seeking small, devoted dogs."
+  },
+  {
+    "name": "norman artesien basset dog",
+    "description": "A French basset hound with hunting heritage. Norman Artesien Bassets are friendly and determined. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "norrbottenspitz dog",
+    "description": "A Swedish spitz breed known for loyalty and independence. Norrbottenspitzes are devoted to their families. They need experienced owners who understand their spirited nature."
+  },
+  {
+    "name": "norwegian buhund dog",
+    "description": "A Norwegian herding dog with spitz characteristics. Norwegian Buhunds are intelligent and devoted. They need consistent training and regular activity."
+  },
+  {
+    "name": "norwegian elkhound black dog",
+    "description": "A Norwegian hunting dog with a distinctive gray coat. Norwegian Elkhounds are loyal and determined. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "norwegian elkhound grey dog",
+    "description": "The more common gray variety of the Norwegian Elkhound. Grey Elkhounds are loyal and independent hunters. They make wonderful companions for active families."
+  },
+  {
+    "name": "norwegian hound dog",
+    "description": "A Norwegian hunting dog with determination and friendliness. Norwegian Hounds are dedicated trackers. They make wonderful hunting companions."
+  },
+  {
+    "name": "norwegian lundehund dog",
+    "description": "A unique Norwegian dog with distinctive traits like six toes. Norwegian Lundehunds are independent and devoted. They make wonderful companions for those seeking unique breeds."
+  },
+  {
+    "name": "norwich terrier dog",
+    "description": "A small English terrier with a friendly, affectionate nature. Norwich Terriers are confident and spirited. They make wonderful companions for those seeking small, devoted dogs."
+  },
+  {
+    "name": "nova scotia duck tolling retriever dog",
+    "description": "A Canadian retriever known for intelligence and athleticism. Nova Scotia Duck Tolling Retrievers are devoted and playful. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "old danish pointing dog",
+    "description": "A Danish pointing breed with hunting heritage. Old Danish Pointing Dogs are intelligent and friendly. They make wonderful hunting companions."
+  },
+  {
+    "name": "old english sheepdog",
+    "description": "A British herding dog with a shaggy gray and white coat. Old English Sheepdogs are playful and devoted. They require regular grooming and make wonderful family dogs."
+  },
+  {
+    "name": "otterhound dog",
+    "description": "A large English hunting dog bred for otter hunting. Otterhounds are devoted and intelligent. They need active families and appreciate water activities."
+  },
+  {
+    "name": "parson russell terrier dog",
+    "description": "A small English terrier breed with boundless energy. Parson Russell Terriers are intelligent and spirited. They're perfect for active families who appreciate their terrier enthusiasm."
+  },
+  {
+    "name": "pekingese dog",
+    "description": "A small Chinese toy dog with regal bearing. Pekingese are affectionate and independent. They require regular grooming and need owners who respect their personality."
+  },
+  {
+    "name": "peruvian hairless dog",
+    "description": "A South American dog breed available in hairless varieties. Peruvian Hairless Dogs are loyal and alert. They make wonderful companions and require special skin care."
+  },
+  {
+    "name": "petit basset griffon vendeen dog",
+    "description": "A small French hunting dog with a rough coat. Petit Basset Griffon Vendeens are friendly and determined. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "petit brabançon dog",
+    "description": "A small Belgian toy breed with distinctive features. Petit Brabançons are affectionate and playful. They make wonderful lap dogs and companions."
+  },
+  {
+    "name": "pharaoh hound dog",
+    "description": "A Maltese sighthound of ancient lineage. Pharaoh Hounds are elegant and devoted. They make wonderful companions for those with appreciation for sighthound breeds."
+  },
+  {
+    "name": "picardy sheepdog",
+    "description": "A French herding dog with loyalty and intelligence. Picardy Sheepdogs are devoted and energetic. They need consistent training and regular activity."
+  },
+  {
+    "name": "picardy spaniel dog",
+    "description": "A French hunting dog with good hunting instincts. Picardy Spaniels are intelligent and devoted. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "poitevin dog",
+    "description": "A French pack hound known for hunting ability. Poitevin dogs are dedicated hunters with friendly temperaments. They make wonderful hunting companions."
+  },
+  {
+    "name": "polish greyhound dog",
+    "description": "A Polish sighthound with grace and speed. Polish Greyhounds are gentle and devoted. They make wonderful companions for those with appreciation for sighthound breeds."
+  },
+  {
+    "name": "polish hound dog",
+    "description": "A Polish hunting dog with determination and friendliness. Polish Hounds are excellent trackers. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "polish hunting dog",
+    "description": "A Polish breed developed for hunting purposes. Polish Hunting Dogs are devoted and energetic. They make wonderful companions for active hunters and families."
+  },
+  {
+    "name": "polish lowland sheepdog",
+    "description": "A Polish herding dog with a long coat. Polish Lowland Sheepdogs are intelligent and devoted. They need consistent training and regular grooming."
+  },
+  {
+    "name": "pont-audemer spaniel dog",
+    "description": "A French hunting spaniel with distinctive curly coat. Pont-Audemer Spaniels are intelligent and devoted hunters. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "poodle dog",
+    "description": "A highly intelligent dog breed available in three sizes. Poodles are responsive, athletic, and affectionate. They require regular grooming and make excellent family and service dogs."
+  },
+  {
+    "name": "porcelaine dog",
+    "description": "A French hunting dog with an elegant appearance. Porcelaines are dedicated hunters with friendly temperaments. They make wonderful hunting companions."
+  },
+  {
+    "name": "portuguese pointing dog",
+    "description": "A Portuguese hunting dog with excellent pointing ability. Portuguese Pointers are intelligent and devoted. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "portuguese sheepdog",
+    "description": "A Portuguese herding dog with loyalty and intelligence. Portuguese Sheepdogs are devoted and energetic. They need consistent training and regular activity."
+  },
+  {
+    "name": "portuguese warren hound-portuguese podengo dog",
+    "description": "A Portuguese hunting dog of small to medium size. Portuguese Podengos are independent yet devoted. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "portuguese water dog",
+    "description": "A Portuguese water dog with excellent swimming ability. Portuguese Water Dogs are intelligent and devoted. They need active lifestyles and love water activities."
+  },
+  {
+    "name": "posavatz hound dog",
+    "description": "A Balkan hunting hound with determination. Posavatz Hounds are dedicated trackers. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "prague ratter dog",
+    "description": "A small Czech dog with alert personality. Prague Ratters are intelligent and affectionate. They make wonderful companions for those seeking small, devoted dogs."
+  },
+  {
+    "name": "presa canario dog",
+    "description": "A Canarian dog with protective instincts. Presa Canarios are loyal and devoted. They need experienced owners and proper training and socialization."
+  },
+  {
+    "name": "pudelpointer dog",
+    "description": "A German hunting dog combining pointer and poodle traits. Pudelpointers are intelligent and devoted hunters. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "pug dog",
+    "description": "A small Chinese dog known for charming personality. Pugs are affectionate and playful. They adapt well to apartment living and make wonderful companion dogs."
+  },
+  {
+    "name": "puli dog",
+    "description": "A Hungarian sheepdog with a distinctive corded coat. Pulis are intelligent and loyal. They need experienced owners and significant commitment to coat care."
+  },
+  {
+    "name": "pumi dog",
+    "description": "A Hungarian herding dog with spitz characteristics. Pumis are intelligent and devoted. They need consistent training and regular activity."
+  },
+  {
+    "name": "pyrenean mastiff dog",
+    "description": "A Spanish mastiff of massive size. Pyrenean Mastiffs are loyal and protective. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "pyrenean mountain dog",
+    "description": "A French livestock guardian dog of large size. Pyrenean Mountain Dogs are protective and devoted. They need experienced owners and plenty of space."
+  },
+  {
+    "name": "pyrenean sheepdog - smooth faced",
+    "description": "A French herding dog with elegant features. Smooth-faced Pyrenean Sheepdogs are intelligent and devoted. They need consistent training and regular activity."
+  },
+  {
+    "name": "rafeiro of alentejo dog",
+    "description": "A Portuguese livestock guardian dog. Rafeiros are loyal and protective. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "rhodesian ridgeback dog",
+    "description": "A South African hunting dog with a distinctive ridge on their back. Rhodesian Ridgebacks are loyal and independent. They make wonderful companions for experienced owners."
+  },
+  {
+    "name": "romagna water dog",
+    "description": "An Italian water dog with hunting heritage. Romagna Water Dogs are intelligent and devoted. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "romanian bucovina shepherd dog",
+    "description": "A Romanian livestock guardian dog. Bucovina Shepherds are loyal and protective. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "romanian carpathian shepherd dog",
+    "description": "A Romanian livestock guardian of large size. Carpathian Shepherds are loyal and protective. They need experienced owners and plenty of space."
+  },
+  {
+    "name": "romanian mioritic shepherd dog",
+    "description": "A Romanian livestock guardian with protective instincts. Mioritic Shepherds are loyal and devoted. They need experienced owners and proper training."
+  },
+  {
+    "name": "rottweiler dog",
+    "description": "A German dog known for strength and loyalty. Rottweilers are devoted family guardians when properly trained. They need experienced owners and positive socialization."
+  },
+  {
+    "name": "russian black terrier dog",
+    "description": "A Russian dog bred for protection work. Russian Black Terriers are loyal and protective. They need experienced owners and consistent training."
+  },
+  {
+    "name": "russian toy dog",
+    "description": "A small Russian toy breed with distinctive features. Russian Toy Dogs are affectionate and devoted. They make wonderful companions for those seeking small lap dogs."
+  },
+  {
+    "name": "russian-european laika dog",
+    "description": "A Russian hunting dog with independence and determination. Russian-European Laikas are loyal to their families. They need experienced owners who understand their hunting heritage."
+  },
+  {
+    "name": "saarloos wolfhond dog",
+    "description": "A Dutch dog-wolf hybrid with unique appearance. Saarloos Wolfhonds are loyal but need experienced owners. They're not suitable for typical family environments."
+  },
+  {
+    "name": "saint germain pointer dog",
+    "description": "A French pointing breed with excellent hunting ability. Saint Germain Pointers are intelligent and devoted. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "saint miguel cattle dog",
+    "description": "A Portuguese herding dog from the Azores. Saint Miguel Cattle Dogs are loyal and energetic. They need consistent training and regular activity."
+  },
+  {
+    "name": "saluki dog",
+    "description": "An ancient Middle Eastern sighthound of elegant grace. Salukis are gentle and devoted. They make wonderful companions for those with appreciation for sighthound breeds."
+  },
+  {
+    "name": "samoyed dog",
+    "description": "A Russian spitz-type dog with a fluffy white coat. Sammies are friendly, intelligent, and devoted. They make wonderful family dogs but shed heavily."
+  },
+  {
+    "name": "schillerstövare dog",
+    "description": "A Swedish hunting hound with determination. Schillerstövares are friendly and excellent trackers. They make wonderful hunting companions."
+  },
+  {
+    "name": "schipperke dog",
+    "description": "A small Belgian dog with a spirited personality. Schipperkes are intelligent and independent. They make wonderful companions for those who appreciate their feisty nature."
+  },
+  {
+    "name": "schnauzer dog",
+    "description": "A German breed available in three sizes with distinctive whiskers. Schnauzers are intelligent, loyal, and alert. They require regular grooming and make wonderful family dogs."
+  },
+  {
+    "name": "scottish terrier dog",
+    "description": "A small Scottish terrier with a big personality. Scottish Terriers are independent and spirited. They make wonderful companions for those who appreciate terrier character."
+  },
+  {
+    "name": "sealyham terrier dog",
+    "description": "A Welsh terrier breed with spirit and charm. Sealyham Terriers are devoted and playful. They make wonderful companions for those seeking small, spirited dogs."
+  },
+  {
+    "name": "segugio maremmano dog",
+    "description": "An Italian hunting dog with determination and ability. Segugi Maremmani are friendly and excellent trackers. They make wonderful hunting companions."
+  },
+  {
+    "name": "serbian hound dog",
+    "description": "A Serbian hunting dog with excellent scenting ability. Serbian Hounds are dedicated trackers. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "serbian tricolour hound dog",
+    "description": "A Serbian hunting dog with distinctive tricolored coat. Serbian Tricolour Hounds are friendly and determined. They make wonderful hunting companions."
+  },
+  {
+    "name": "shar pei dog",
+    "description": "A Chinese dog known for distinctive wrinkled coat. Shar Pei are independent and devoted. They need owners who understand their unique care requirements."
+  },
+  {
+    "name": "shetland sheepdog",
+    "description": "A small Scottish herding dog with a long, flowing coat. Shetland Sheepdogs are intelligent and devoted. They need consistent training and regular grooming."
+  },
+  {
+    "name": "shiba dog",
+    "description": "A Japanese dog breed known for independence and loyalty. Shibas are spirited and devoted. They need experienced owners who respect their independent nature."
+  },
+  {
+    "name": "shih tzu dog",
+    "description": "A small Chinese toy dog with a long, flowing coat. Shih Tzus are affectionate and playful. They require regular grooming and make wonderful companion dogs."
+  },
+  {
+    "name": "shikoku dog",
+    "description": "A Japanese hunting dog with loyalty and independence. Shikoku Dogs are devoted to their families. They need experienced owners who understand their spirited nature."
+  },
+  {
+    "name": "siberian husky dog",
+    "description": "A Russian sled dog known for energy and loyalty. Siberian Huskies are friendly and intelligent. They need experienced, active owners and plenty of exercise."
+  },
+  {
+    "name": "skye terrier dog",
+    "description": "A Scottish terrier with a long, low body. Skye Terriers are independent and devoted. They make wonderful companions for those who appreciate terrier character."
+  },
+  {
+    "name": "sloughi dog",
+    "description": "A North African sighthound of elegant grace. Sloughis are gentle and devoted. They make wonderful companions for those with appreciation for sighthound breeds."
+  },
+  {
+    "name": "slovakian chuvach dog",
+    "description": "A Slovak livestock guardian dog of large size. Slovakian Chuvachs are loyal and protective. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "slovakian hound dog",
+    "description": "A Slovak hunting dog with determination. Slovakian Hounds are dedicated trackers. They make wonderful hunting companions."
+  },
+  {
+    "name": "small blue gascony dog",
+    "description": "A small French hunting dog with blue coloring. Small Blue Gascony dogs are friendly and determined hunters. They make wonderful hunting companions."
+  },
+  {
+    "name": "small swiss hound dog",
+    "description": "A small Swiss hunting hound. Small Swiss Hounds are friendly and excellent trackers. They make wonderful hunting companions."
+  },
+  {
+    "name": "smålandsst övare dog",
+    "description": "A Swedish hunting dog known for determination. Smålandsstövares are dedicated trackers with friendly temperaments. They make wonderful hunting companions."
+  },
+  {
+    "name": "south russian shepherd dog",
+    "description": "A Russian livestock guardian of large size. South Russian Shepherds are loyal and protective. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "spanish greyhound dog",
+    "description": "A Spanish sighthound with grace and speed. Spanish Greyhounds are gentle and devoted. They make wonderful companions for those with appreciation for sighthound breeds."
+  },
+  {
+    "name": "spanish hound dog",
+    "description": "A Spanish hunting dog with excellent scenting ability. Spanish Hounds are dedicated trackers. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "spanish mastiff dog",
+    "description": "A Spanish mastiff of massive size. Spanish Mastiffs are loyal and protective. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "spanish water dog",
+    "description": "A Spanish water dog with curly coat and hunting heritage. Spanish Water Dogs are intelligent and devoted. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "st. bernard dog",
+    "description": "A Swiss mountain dog of giant size known for rescue work. St. Bernards are gentle and devoted. They need experienced owners and careful attention to health."
+  },
+  {
+    "name": "stabijhoun dog",
+    "description": "A Dutch pointing dog with friendly disposition. Stabijhoun are intelligent and devoted. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "staffordshire bull terrier dog",
+    "description": "An English dog breed known for loyalty and affection. Staffordshire Bull Terriers are devoted family members. They need firm training and positive socialization."
+  },
+  {
+    "name": "sussex spaniel dog",
+    "description": "A British hunting spaniel with rich red-gold coat. Sussex Spaniels are intelligent and devoted. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "swedish lapphund dog",
+    "description": "A Scandinavian herding dog with spitz characteristics. Swedish Lapphunds are intelligent and devoted. They need consistent training and regular exercise."
+  },
+  {
+    "name": "swedish vallhund dog",
+    "description": "A small Swedish herding dog with corgi-like appearance. Swedish Vallhunds are intelligent and devoted. They need consistent training and regular activity."
+  },
+  {
+    "name": "swiss hound dog",
+    "description": "A Swiss hunting dog with excellent scenting ability. Swiss Hounds are dedicated trackers. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "taiwan dog",
+    "description": "A Taiwanese hunting dog with loyalty and independence. Taiwan Dogs are devoted to their families. They need experienced owners who understand their spirited nature."
+  },
+  {
+    "name": "tatra shepherd dog",
+    "description": "A Polish livestock guardian of large size. Tatra Shepherds are loyal and protective. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "thai bangkaew dog",
+    "description": "A Thai dog with loyalty and protective instincts. Thai Bangkaew Dogs are devoted family guardians. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "thai ridgeback dog",
+    "description": "A Thai sighthound with distinctive ridge on their back. Thai Ridgebacks are independent yet devoted. They need experienced owners who understand their spirited nature."
+  },
+  {
+    "name": "tibetan mastiff dog",
+    "description": "A Tibetan dog of massive size with protective instincts. Tibetan Mastiffs are loyal and independent. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "tibetan spaniel dog",
+    "description": "A small Tibetan dog bred as a monastery guardian. Tibetan Spaniels are intelligent and devoted. They make wonderful companions with independent spirits."
+  },
+  {
+    "name": "tibetan terrier dog",
+    "description": "A Tibetan dog with a long, flowing coat. Tibetan Terriers are intelligent and devoted. They require regular grooming and make wonderful family companions."
+  },
+  {
+    "name": "tosa dog",
+    "description": "A Japanese dog breed with protective instincts. Tosa dogs are loyal and devoted. They need experienced owners and proper training and socialization."
+  },
+  {
+    "name": "transmontano mastiff dog",
+    "description": "A Portuguese mastiff with protective instincts. Transmontano Mastiffs are loyal and devoted guardians. They need experienced owners and proper socialization."
+  },
+  {
+    "name": "tyrolean hound dog",
+    "description": "An Austrian hunting dog with determination. Tyrolean Hounds are dedicated trackers. They make wonderful hunting companions for active families."
+  },
+  {
+    "name": "valencian terrier dog",
+    "description": "A Spanish terrier breed with spirited personality. Valencian Terriers are alert and loyal. They make wonderful companions for those seeking spirited dogs."
+  },
+  {
+    "name": "weimaraner dog",
+    "description": "A German hunting dog known for elegance and athleticism. Weimaraners are devoted and intelligent. They need active families and make wonderful hunting and family companions."
+  },
+  {
+    "name": "welsh corgi (cardigan) dog",
+    "description": "A Welsh herding dog of short stature. Cardigan Corgis are intelligent and devoted. They make wonderful family dogs despite their independent nature."
+  },
+  {
+    "name": "welsh corgi (pembroke) dog",
+    "description": "A smaller Welsh herding dog with distinctive looks. Pembroke Corgis are intelligent and affectionate. They make wonderful family dogs and are beloved worldwide."
+  },
+  {
+    "name": "welsh springer spaniel dog",
+    "description": "A Welsh hunting spaniel with red and white coloring. Welsh Springer Spaniels are intelligent and devoted. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "welsh terrier dog",
+    "description": "A Welsh terrier with spirited, affectionate nature. Welsh Terriers are devoted and playful. They make wonderful companions for those who appreciate terrier character."
+  },
+  {
+    "name": "west highland white terrier dog",
+    "description": "A Scottish terrier with distinctive white coat. West Highland White Terriers are spirited and loyal. They make wonderful family dogs and companions."
+  },
+  {
+    "name": "west siberian laika dog",
+    "description": "A Russian hunting dog with independence and determination. West Siberian Laikas are loyal to their families. They need experienced owners who understand their hunting heritage."
+  },
+  {
+    "name": "westphalian dachsbracke dog",
+    "description": "A German hunting dog with short legs and determination. Westphalian Dachsbrackes are dedicated hunters. They make wonderful hunting companions."
+  },
+  {
+    "name": "whippet dog",
+    "description": "A small sighthound known for speed and grace. Whippets are gentle and devoted. They make wonderful companions for those with appreciation for sighthound breeds."
+  },
+  {
+    "name": "white swiss shepherd dog",
+    "description": "A Swiss dog with white coat and working heritage. White Swiss Shepherds are intelligent and devoted. They need consistent training and regular activity."
+  },
+  {
+    "name": "wire-haired pointing griffon korthals dog",
+    "description": "A Dutch pointing dog with distinctive wire coat. Wire-haired Pointing Griffons are intelligent and devoted hunters. They make wonderful hunting and family companions."
+  },
+  {
+    "name": "wirehaired slovakian pointer dog",
+    "description": "A Slovak hunting dog with a distinctive wire coat. Wirehaired Slovakian Pointers are determined and devoted. They make wonderful hunting companions."
+  },
+  {
+    "name": "xoloitzcuintle dog",
+    "description": "A Mexican dog available in hairless and coated varieties. Xolos are loyal and affectionate. They make wonderful companions and require special skin care if hairless."
+  },
+  {
+    "name": "yakutian laika dog",
+    "description": "A Russian sled dog known for endurance and loyalty. Yakutian Laikas are devoted to their families. They need experienced owners who understand their working heritage."
+  },
+  {
+    "name": "yorkshire terrier dog",
+    "description": "A small English terrier with a long, silky coat. Yorkshire Terriers are spirited and devoted. They make wonderful companions for those seeking small, loyal dogs."
+  },
+  {
+    "name": "yugoslavian shepherd dog - sharplanina",
+    "description": "A Balkan livestock guardian of large size. Sharplaninas are loyal and protective. They need experienced owners and proper socialization."
   }
-}
+]
